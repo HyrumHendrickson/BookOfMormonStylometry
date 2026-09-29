@@ -1,0 +1,5209 @@
+{
+  "metadata": {
+    "title": "Claimed authors by chapter, Book of Mormon",
+    "total_books": 15,
+    "total_chapters": 239,
+    "method": "Chapter-level attribution based on the text's own claims. Named speakers, record keepers, abridgers, letter writers, divine speakers, and substantial quoted or cited sources are included. Speech and epistles that are only summarized in narration are omitted. Inferred attributions are flagged in chapter notes.",
+    "roles": {
+      "primary author": "writes the record or text in his own voice",
+      "abridger": "Mormon or Moroni condensing an earlier record",
+      "source record keeper": "author of an earlier record that an abridger used",
+      "speaker": "delivers a recorded discourse, prophecy, or dialogue",
+      "letter writer": "author of an epistle or written proclamation whose text is reproduced",
+      "divine speaker": "the Lord, Jesus Christ, the Father, the Spirit",
+      "quoted author": "text quoted at length from the brass plates or Bible",
+      "cited witness": "prophet named as a witness or quoted only briefly",
+      "editorial commentator": "abridger interrupting with his own commentary"
+    }
+  },
+  "books": [
+    {
+      "book": "1 Nephi",
+      "section": "Small Plates",
+      "chapter_count": 22,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Lehi",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Nephi abridges his father Lehi's record (1:16-17); Lehi's exclamation of praise (1:14-15)."
+        },
+        {
+          "chapter": 2,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Lehi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Lehi counsels Laman and Lemuel (2:9-10); the Lord speaks to Nephi (2:19-24)."
+        },
+        {
+          "chapter": 3,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Lehi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Angel",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "An angel rebukes Laman and Lemuel (3:29-30)."
+        },
+        {
+          "chapter": 4,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Spirit of the Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 5,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Lehi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Sariah",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Sariah's complaint against Lehi (5:2-3)."
+        },
+        {
+          "chapter": 6,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 7,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 8,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Lehi",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Lehi's dream of the tree of life, as told by Lehi and recorded by Nephi."
+        },
+        {
+          "chapter": 9,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 10,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Lehi",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 11,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Spirit of the Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "Angel",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 12,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Angel",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 13,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Angel",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 14,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Angel",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 15,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 16,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The voice of the Lord speaks to Lehi concerning the ball, or director (16:26). The name 'Liahona' is first used in Alma 37:38."
+        },
+        {
+          "chapter": 17,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The Lord commands Nephi to build a ship (17:7-14, 17:53)."
+        },
+        {
+          "chapter": 18,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ],
+          "notes": "The Lord's direction to Lehi (18:5) is reported indirectly, so the Lord is not listed."
+        },
+        {
+          "chapter": 19,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Zenos",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Zenock",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Neum",
+              "roles": [
+                "cited witness"
+              ]
+            }
+          ],
+          "notes": "Zenos, Zenock, and Neum are cited in 19:10-16; Nephi says he read Isaiah to his brothers (19:23), and the Isaiah text follows in chs. 20-21."
+        },
+        {
+          "chapter": 20,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 48."
+        },
+        {
+          "chapter": 21,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 49."
+        },
+        {
+          "chapter": 22,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Moses",
+              "roles": [
+                "cited witness"
+              ]
+            }
+          ],
+          "notes": "Nephi quotes Moses's prophecy of a prophet like unto him (22:20-21)."
+        }
+      ]
+    },
+    {
+      "book": "2 Nephi",
+      "section": "Small Plates",
+      "chapter_count": 33,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Lehi",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 2,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Lehi",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 3,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Lehi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Joseph of Egypt",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Lehi relays the prophecy of Joseph of Egypt from the brass plates (3:6-21)."
+        },
+        {
+          "chapter": 4,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Lehi",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Lehi's blessings (4:3-11); Nephi's psalm (4:16-35)."
+        },
+        {
+          "chapter": 5,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The Lord's words to Nephi (5:20, 5:25, 5:30)."
+        },
+        {
+          "chapter": 6,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Jacob, son of Lehi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Jacob quotes Isaiah 49:22-23 (6:6-7) and Isaiah 49:24-26 (6:16-18)."
+        },
+        {
+          "chapter": 7,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Jacob, son of Lehi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Jacob quotes Isaiah 50."
+        },
+        {
+          "chapter": 8,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Jacob, son of Lehi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Jacob quotes Isaiah 51 and 52:1-2."
+        },
+        {
+          "chapter": 9,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Jacob, son of Lehi",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 10,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Jacob, son of Lehi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Jacob delivers the words of the Lord God in the Lord's first person (10:7-19). An angel's words to Jacob (10:3) are reported indirectly, so the angel is not listed."
+        },
+        {
+          "chapter": 11,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Jacob, son of Lehi",
+              "roles": [
+                "cited witness"
+              ]
+            }
+          ],
+          "notes": "Nephi introduces the Isaiah chapters; he names Isaiah and Jacob as fellow witnesses who have seen the Redeemer (11:2-3). No Isaiah text is quoted and Jacob's further words are not recorded (11:1)."
+        },
+        {
+          "chapter": 12,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 2."
+        },
+        {
+          "chapter": 13,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 3."
+        },
+        {
+          "chapter": 14,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 4."
+        },
+        {
+          "chapter": 15,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 5."
+        },
+        {
+          "chapter": 16,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 6."
+        },
+        {
+          "chapter": 17,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 7."
+        },
+        {
+          "chapter": 18,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 8."
+        },
+        {
+          "chapter": 19,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 9."
+        },
+        {
+          "chapter": 20,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 10."
+        },
+        {
+          "chapter": 21,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 11."
+        },
+        {
+          "chapter": 22,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 12."
+        },
+        {
+          "chapter": 23,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 13."
+        },
+        {
+          "chapter": 24,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 14."
+        },
+        {
+          "chapter": 25,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 26,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Nephi reworks Isaiah 29:3-5 (26:15-18) without naming Isaiah; listed under the framing of 2 Nephi 25:1-8."
+        },
+        {
+          "chapter": 27,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Nephi's prophecy closely parallels and reworks Isaiah 29. Isaiah is not named in the chapter, but 2 Nephi 25:1-8 frames chs. 25-30 as commentary on Isaiah."
+        },
+        {
+          "chapter": 28,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Nephi quotes the Lord God (28:30, 28:32)."
+        },
+        {
+          "chapter": 29,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The Lord speaks throughout the chapter."
+        },
+        {
+          "chapter": 30,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Nephi quotes Isaiah 11:4-9 (30:9, 30:11-15) without naming Isaiah; listed under the framing of 2 Nephi 25:1-8."
+        },
+        {
+          "chapter": 31,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "God the Father",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The voice of the Son (31:12, 14) and the voice of the Father (31:11, 15)."
+        },
+        {
+          "chapter": 32,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 33,
+          "authors": [
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "book": "Jacob",
+      "section": "Small Plates",
+      "chapter_count": 7,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Jacob, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 2,
+          "authors": [
+            {
+              "name": "Jacob, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Jacob's temple sermon on pride and chastity; the word of the Lord comes to Jacob (2:11), and the Lord speaks in 2:23-33."
+        },
+        {
+          "chapter": 3,
+          "authors": [
+            {
+              "name": "Jacob, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 4,
+          "authors": [
+            {
+              "name": "Jacob, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 5,
+          "authors": [
+            {
+              "name": "Jacob, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Zenos",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Jacob introduces the allegory (5:1); the allegory of the olive tree, attributed to Zenos, follows (5:2-77)."
+        },
+        {
+          "chapter": 6,
+          "authors": [
+            {
+              "name": "Jacob, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Zenos",
+              "roles": [
+                "cited witness"
+              ]
+            }
+          ],
+          "notes": "Jacob's commentary on the allegory; Zenos is named again (6:1)."
+        },
+        {
+          "chapter": 7,
+          "authors": [
+            {
+              "name": "Jacob, son of Lehi",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Sherem",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Jacob's encounter and dialogue with Sherem."
+        }
+      ]
+    },
+    {
+      "book": "Enos",
+      "section": "Small Plates",
+      "chapter_count": 1,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Enos",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The voice of the Lord answers Enos (1:5, 1:8, 1:10, 1:12, 1:18)."
+        }
+      ]
+    },
+    {
+      "book": "Jarom",
+      "section": "Small Plates",
+      "chapter_count": 1,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Jarom",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "book": "Omni",
+      "section": "Small Plates",
+      "chapter_count": 1,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Omni",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Amaron",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Chemish",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Abinadom",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Amaleki",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ],
+          "notes": "Omni 1:1-3 Omni; 1:4-8 Amaron; 1:9 Chemish; 1:10-11 Abinadom; 1:12-30 Amaleki."
+        }
+      ]
+    },
+    {
+      "book": "Words of Mormon",
+      "section": "Plates of Mormon",
+      "chapter_count": 1,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ],
+          "notes": "Mormon's editorial bridge joining the small plates to his abridgment."
+        }
+      ]
+    },
+    {
+      "book": "Mosiah",
+      "section": "Large Plates (Mormon)",
+      "chapter_count": 29,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "King Benjamin",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 2,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "King Benjamin",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "King Benjamin's address begins (chs. 2-5)."
+        },
+        {
+          "chapter": 3,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "King Benjamin",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Angel",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Benjamin relays the words of an angel (3:2-27)."
+        },
+        {
+          "chapter": 4,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "King Benjamin",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 5,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "King Benjamin",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 6,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 7,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Ammon, descendant of Zarahemla",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Limhi",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "This Ammon is a descendant of Zarahemla (7:3), not the son of Mosiah. Limhi questions Ammon (7:9-11) and addresses his people (7:18-33)."
+        },
+        {
+          "chapter": 8,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Ammon, descendant of Zarahemla",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Limhi",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Ammon and Limhi discuss the Jaredite plates and seers (8:6-20)."
+        },
+        {
+          "chapter": 9,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Zeniff",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "The Record of Zeniff (heading before ch. 9) spans chs. 9-22. Zeniff narrates in first person in chs. 9-10; the record continues in third person under Noah and Limhi and is described as the record kept by Limhi's people (8:5; 22:14)."
+        },
+        {
+          "chapter": 10,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Zeniff",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 11,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Zeniff",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Abinadi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Abinadi's first prophecy, delivered as the Lord's words ('Thus saith the Lord,' 11:20-25)."
+        },
+        {
+          "chapter": 12,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Zeniff",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Abinadi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "Alma the Elder",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Moses",
+              "roles": [
+                "quoted author"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Abinadi's second prophecy, again in the Lord's words (12:1-8). Alma the Elder as source for Abinadi's words (chs. 12-17) is inferred from 17:4. A priest quotes Isaiah 52:7-10 (12:20-24); Abinadi begins reciting the commandments given through Moses (12:34-36)."
+        },
+        {
+          "chapter": 13,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Zeniff",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Abinadi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Alma the Elder",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Moses",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Abinadi continues the Ten Commandments (13:12-24)."
+        },
+        {
+          "chapter": 14,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Zeniff",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Abinadi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Alma the Elder",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 53."
+        },
+        {
+          "chapter": 15,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Zeniff",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Abinadi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Alma the Elder",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Abinadi quotes Isaiah 52:8-10 (15:29-31)."
+        },
+        {
+          "chapter": 16,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Zeniff",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Abinadi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Alma the Elder",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 17,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Zeniff",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Abinadi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Alma the Elder",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "Alma the Elder writes all the words of Abinadi (17:4)."
+        },
+        {
+          "chapter": 18,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Zeniff",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Alma the Elder",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Alma the Elder's teaching at the waters of Mormon. Alma as source is inferred from 17:4 and the heading before ch. 23."
+        },
+        {
+          "chapter": 19,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Zeniff",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "Narrative of Noah's death and Limhi's accession; no speech is recorded at length."
+        },
+        {
+          "chapter": 20,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Zeniff",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Limhi",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "King of the Lamanites (in the days of Limhi)",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Gideon",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Limhi questions the captured Lamanite king (20:14, 20:16); the king answers (20:15) and swears an oath of peace (20:24); Gideon counsels Limhi (20:17-22)."
+        },
+        {
+          "chapter": 21,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Zeniff",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "Narrated account. Limhi's and Ammon's exchange (21:28) is reported indirectly, so neither is listed as a speaker."
+        },
+        {
+          "chapter": 22,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Zeniff",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Gideon",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Gideon proposes the plan of escape (22:3-9); Mosiah receives the records kept by the people of Limhi (22:14)."
+        },
+        {
+          "chapter": 23,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Elder",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "The heading before ch. 23 introduces an account of Alma and his people (chs. 23-24) but does not name a record; Alma the Elder as source is inferred. Alma declines kingship (23:7-14)."
+        },
+        {
+          "chapter": 24,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Elder",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The voice of the Lord comes to Alma's people (24:13-14, 24:16) and to Alma (24:23)."
+        },
+        {
+          "chapter": 25,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            }
+          ],
+          "notes": "Mosiah reads the records to the people, and Alma preaches and baptizes (25:5-18); both are reported in narration, so neither is listed as a speaker."
+        },
+        {
+          "chapter": 26,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Elder",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The voice of the Lord answers Alma (26:15-32); Alma writes the words down (26:33). Alma the Elder as source for the chapter is inferred from 26:33."
+        },
+        {
+          "chapter": 27,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Angel",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The angel rebukes Alma the Younger (27:13-16); Alma relays the Lord's words (27:25)."
+        },
+        {
+          "chapter": 28,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The Lord answers Mosiah regarding his sons' mission (28:7)."
+        },
+        {
+          "chapter": 29,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Mosiah II",
+              "roles": [
+                "letter writer"
+              ]
+            }
+          ],
+          "notes": "Mosiah's written proclamation to the people (29:5-32; see 29:4)."
+        }
+      ]
+    },
+    {
+      "book": "Alma",
+      "section": "Large Plates (Mormon)",
+      "chapter_count": 63,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Alma's record begins (chs. 1-44). Nehor's teaching is summarized in narration (1:3-6), so he is not listed; Alma pronounces judgment on him (1:13-14)."
+        },
+        {
+          "chapter": 2,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 3,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 4,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 5,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Alma's sermon in Zarahemla."
+        },
+        {
+          "chapter": 6,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 7,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Alma's sermon in Gideon."
+        },
+        {
+          "chapter": 8,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            },
+            {
+              "name": "Amulek",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Angel",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "An angel tells Alma to return to Ammonihah (8:15-17); Amulek receives him (8:19-20)."
+        },
+        {
+          "chapter": 9,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 10,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Amulek",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Angel",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Amulek's address; he recounts the angel's words to him (10:7-8)."
+        },
+        {
+          "chapter": 11,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Amulek",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Zeezrom",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 12,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 13,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 14,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            },
+            {
+              "name": "Amulek",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 15,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Alma questions Zeezrom before healing him (15:6-10); Amulek's actions are narrated only."
+        },
+        {
+          "chapter": 16,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 17,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Ammon, son of Mosiah",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The heading before ch. 17 introduces an account of the sons of Mosiah (chs. 17-27) 'according to the record of Alma,' so Alma the Younger remains the source record keeper. The Lord comforts the sons of Mosiah (17:10-11); Ammon answers the Lamanite king (17:23-25)."
+        },
+        {
+          "chapter": 18,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Ammon, son of Mosiah",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Lamoni",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 19,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Ammon, son of Mosiah",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Lamoni",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 20,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Ammon, son of Mosiah",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Lamoni",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "King of the Lamanites (father of Lamoni)",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The voice of the Lord comes to Ammon (20:2); Lamoni's father speaks (20:9-27)."
+        },
+        {
+          "chapter": 21,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Aaron, son of Mosiah",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Aaron contends with an Amalekite (21:5-9)."
+        },
+        {
+          "chapter": 22,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Aaron, son of Mosiah",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "King of the Lamanites (father of Lamoni)",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Aaron teaches Lamoni's father."
+        },
+        {
+          "chapter": 23,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "The king's proclamation is summarized in narration (23:1-3), so he is not listed."
+        },
+        {
+          "chapter": 24,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Anti-Nephi-Lehi",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Speech of the Anti-Nephi-Lehi king (24:7-16)."
+        },
+        {
+          "chapter": 25,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 26,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Ammon, son of Mosiah",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Ammon's rejoicing in the Lord."
+        },
+        {
+          "chapter": 27,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Ammon, son of Mosiah",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The Lord answers Ammon (27:11-12); Ammon reports it to the king (27:13)."
+        },
+        {
+          "chapter": 28,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 29,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Alma's expression of desire."
+        },
+        {
+          "chapter": 30,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            },
+            {
+              "name": "Korihor",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Korihor's speeches and his written confession (30:52-53)."
+        },
+        {
+          "chapter": 31,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            },
+            {
+              "name": "Zoramites",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "The Zoramites' Rameumptom prayer (31:15-18); Alma's prayer (31:26-35)."
+        },
+        {
+          "chapter": 32,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 33,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            },
+            {
+              "name": "Zenos",
+              "roles": [
+                "quoted author"
+              ]
+            },
+            {
+              "name": "Zenock",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Moses",
+              "roles": [
+                "cited witness"
+              ]
+            }
+          ],
+          "notes": "Alma quotes Zenos at length (33:4-11) and Zenock briefly (33:16); Moses and the brazen serpent (33:19)."
+        },
+        {
+          "chapter": 34,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Amulek",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Zenos",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Zenock",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Moses",
+              "roles": [
+                "cited witness"
+              ]
+            }
+          ],
+          "notes": "Amulek's sermon continues Alma's; Zenos, Zenock, and Moses named as witnesses (34:7)."
+        },
+        {
+          "chapter": 35,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 36,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            },
+            {
+              "name": "Angel",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Lehi",
+              "roles": [
+                "cited witness"
+              ]
+            }
+          ],
+          "notes": "Alma's counsel to Helaman; retells the angel's rebuke (36:8-9, 36:11) and echoes Lehi's words on seeing God upon his throne (36:22; cf. 1 Nephi 1:8)."
+        },
+        {
+          "chapter": 37,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Alma's counsel to Helaman; Alma quotes the Lord's words concerning Gazelem (37:23)."
+        },
+        {
+          "chapter": 38,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Alma's counsel to Shiblon."
+        },
+        {
+          "chapter": 39,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Alma's counsel to Corianton (chs. 39-42)."
+        },
+        {
+          "chapter": 40,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 41,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 42,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 43,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 44,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Captain Moroni",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Zerahemnah",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Moroni and Zerahemnah negotiate surrender."
+        },
+        {
+          "chapter": 45,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            },
+            {
+              "name": "Alma the Younger",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "The heading before ch. 45 attributes chs. 45-62 to the record of Helaman. Alma blesses and prophesies to Helaman; Helaman takes the records."
+        },
+        {
+          "chapter": 46,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Captain Moroni",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Jacob (Israel), father of Joseph",
+              "roles": [
+                "cited witness"
+              ]
+            }
+          ],
+          "notes": "Moroni raises the title of liberty and quotes the dying words of Jacob concerning Joseph's coat (46:24-26)."
+        },
+        {
+          "chapter": 47,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 48,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 49,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 50,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 51,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 52,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Captain Moroni",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Moroni offers terms to the besieged Lamanites (52:37)."
+        },
+        {
+          "chapter": 53,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 54,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Captain Moroni",
+              "roles": [
+                "letter writer"
+              ]
+            },
+            {
+              "name": "Ammoron",
+              "roles": [
+                "letter writer"
+              ]
+            }
+          ],
+          "notes": "Epistles between Captain Moroni and Ammoron (Moroni 54:5-14; Ammoron 54:16-24)."
+        },
+        {
+          "chapter": 55,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Captain Moroni",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Moroni's response to Ammoron's epistle (55:1-2); the chapter then narrates the stratagem against the Lamanite guards."
+        },
+        {
+          "chapter": 56,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper",
+                "letter writer"
+              ]
+            }
+          ],
+          "notes": "Helaman's epistle to Captain Moroni (chs. 56-58)."
+        },
+        {
+          "chapter": 57,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper",
+                "letter writer"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 58,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper",
+                "letter writer"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 59,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "Moroni's epistle to Pahoran (59:3) is summarized, not reproduced, so he is not listed as a letter writer."
+        },
+        {
+          "chapter": 60,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Captain Moroni",
+              "roles": [
+                "letter writer"
+              ]
+            }
+          ],
+          "notes": "Captain Moroni's epistle to Pahoran."
+        },
+        {
+          "chapter": 61,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Pahoran",
+              "roles": [
+                "letter writer"
+              ]
+            }
+          ],
+          "notes": "Pahoran's reply to Captain Moroni."
+        },
+        {
+          "chapter": 62,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Alma",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "62:52 reports Helaman's death, so the closing notice is not Helaman's own writing."
+        },
+        {
+          "chapter": 63,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Shiblon",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "Shiblon takes possession of the records (63:1) and confers them on Helaman, son of Helaman (63:11); 63:17 closes the account of Alma, Helaman, and Shiblon. Shiblon as source record keeper is inferred from his custody of the records; no heading names his record."
+        }
+      ]
+    },
+    {
+      "book": "Helaman",
+      "section": "Large Plates (Mormon)",
+      "chapter_count": 16,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Helaman",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "The book's heading cites the record of Helaman, son of Helaman, and the records of his sons."
+        },
+        {
+          "chapter": 2,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Helaman",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 3,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Helaman, son of Helaman",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "Helaman's death is reported at 3:37; his son Nephi succeeds him. Attribution of chs. 4-16 to Nephi's record is inferred from this succession and the book's heading."
+        },
+        {
+          "chapter": 4,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Helaman",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 5,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Helaman",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            },
+            {
+              "name": "Helaman, son of Helaman",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Lehi, son of Helaman",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "Aminadab",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "God the Father",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Helaman's counsel to his sons Nephi and Lehi (5:6-12), which they remember (5:5, 5:14); Nephi and Lehi speak from the fire (5:26); the voice above the cloud of darkness (5:29, 5:32); Aminadab speaks (5:41). The second voice (5:46-47) speaks of 'my Well Beloved'; its identification as the Father is inferred."
+        },
+        {
+          "chapter": 6,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Helaman",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 7,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Helaman",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 8,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Helaman",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            },
+            {
+              "name": "Moses",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Abraham",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Zenos",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Zenock",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Ezias",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Jeremiah",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Lehi",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Nephi, son of Lehi",
+              "roles": [
+                "cited witness"
+              ]
+            }
+          ],
+          "notes": "Nephi names prophets as witnesses of Christ (8:11-22), including Lehi and Nephi, son of Lehi (8:22)."
+        },
+        {
+          "chapter": 9,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Helaman",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 10,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Helaman",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The Lord's promise to Nephi (10:4-11). Nephi's subsequent preaching is narrated, so he is not listed as a speaker."
+        },
+        {
+          "chapter": 11,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Helaman",
+              "roles": [
+                "source record keeper",
+                "speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 12,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger",
+                "editorial commentator"
+              ]
+            }
+          ],
+          "notes": "Mormon's commentary on human frailty. The whole chapter is commentary, so no source record keeper is assigned."
+        },
+        {
+          "chapter": 13,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Helaman",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Samuel the Lamanite",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Angel",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Samuel's prophecy on the wall of Zarahemla (chs. 13-15); Samuel delivers the Lord's words (13:8 ff.) and invokes the angel's message (13:7)."
+        },
+        {
+          "chapter": 14,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Helaman",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Samuel the Lamanite",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Angel",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Samuel quotes the angel's charge (14:9) and relays its words (14:26, 14:28)."
+        },
+        {
+          "chapter": 15,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Helaman",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Samuel the Lamanite",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "Zenos",
+              "roles": [
+                "cited witness"
+              ]
+            }
+          ],
+          "notes": "Samuel cites Zenos on the restoration of the Lamanites (15:11) and quotes the Lord (15:16-17)."
+        },
+        {
+          "chapter": 16,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Helaman",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "The people's response to Samuel is narrated; neither Samuel nor Nephi speaks directly in this chapter."
+        }
+      ]
+    },
+    {
+      "book": "3 Nephi",
+      "section": "Large Plates (Mormon)",
+      "chapter_count": 30,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Nephi, son of Helaman, has departed and left the records to his son Nephi (1:2-3). Nephi, son of Nephi, prays and hears the voice of the Lord announcing the sign of Christ's birth (1:13-14)."
+        },
+        {
+          "chapter": 2,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 3,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Giddianhi",
+              "roles": [
+                "letter writer"
+              ]
+            },
+            {
+              "name": "Lachoneus",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Gidgiddoni",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Giddianhi's epistle (3:2-10); Lachoneus's proclamation is summarized (3:13-14), and his direct address follows (3:15); Gidgiddoni's counsel (3:21)."
+        },
+        {
+          "chapter": 4,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 5,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger",
+                "editorial commentator"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "Mormon states that he makes his record according to the record of Nephi (5:9-10) and speaks in first person (5:12 ff.). Attribution of chs. 1-28 to Nephi, son of Nephi, follows this statement."
+        },
+        {
+          "chapter": 6,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 7,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "Nephi's ministry is reported (7:15-18) without recorded direct speech."
+        },
+        {
+          "chapter": 8,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 9,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 10,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger",
+                "editorial commentator"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "Zenos",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Zenock",
+              "roles": [
+                "cited witness"
+              ]
+            }
+          ],
+          "notes": "Mormon's commentary on the preservation of the righteous and the fulfillment of Zenos and Zenock (10:11-19)."
+        },
+        {
+          "chapter": 11,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "God the Father",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 12,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Sermon at the temple begins (chs. 12-14, paralleling Matthew 5-7)."
+        },
+        {
+          "chapter": 13,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 14,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 15,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 16,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Jesus quotes Isaiah 52:8-10 (16:18-20)."
+        },
+        {
+          "chapter": 17,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 18,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 19,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 20,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            },
+            {
+              "name": "Moses",
+              "roles": [
+                "cited witness"
+              ]
+            }
+          ],
+          "notes": "Jesus cites Moses (20:23) and quotes Isaiah 52 (20:32-45). Prophecies paralleling Micah 5:8-9 (20:16-17) and Micah 4:12-13 (20:18-19) are noted only; Micah is not named."
+        },
+        {
+          "chapter": 21,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Jesus draws on Isaiah 52 (21:8, 21:10, 21:29). A prophecy paralleling Micah 5:8-15 (21:12-18, 21:21) is noted only; Micah is not named."
+        },
+        {
+          "chapter": 22,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Isaiah 54."
+        },
+        {
+          "chapter": 23,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "cited witness"
+              ]
+            },
+            {
+              "name": "Samuel the Lamanite",
+              "roles": [
+                "cited witness"
+              ]
+            }
+          ],
+          "notes": "Jesus commends the words of Isaiah (23:1-3) and asks why Samuel the Lamanite's fulfilled prophecy was not recorded (23:9-13)."
+        },
+        {
+          "chapter": 24,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "Malachi",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Malachi 3; Jesus reports the words the Father gave to Malachi (24:1)."
+        },
+        {
+          "chapter": 25,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "Malachi",
+              "roles": [
+                "quoted author"
+              ]
+            }
+          ],
+          "notes": "Malachi 4."
+        },
+        {
+          "chapter": 26,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger",
+                "editorial commentator"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Mormon explains that he writes only a part of what Jesus taught (26:6-12)."
+        },
+        {
+          "chapter": 27,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 28,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger",
+                "editorial commentator"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Mormon's remarks on the Three Nephites (28:17-24, 28:36-40)."
+        },
+        {
+          "chapter": 29,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger",
+                "editorial commentator"
+              ]
+            }
+          ],
+          "notes": "Mormon's commentary; no source record keeper is assigned."
+        },
+        {
+          "chapter": 30,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger",
+                "editorial commentator"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Mormon relays the words of Jesus to the Gentiles."
+        }
+      ]
+    },
+    {
+      "book": "4 Nephi",
+      "section": "Large Plates (Mormon)",
+      "chapter_count": 1,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Nephi, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Amos, son of Nephi",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Amos, son of Amos",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Ammaron",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "1:1-19 Nephi; 1:19-21 Amos, son of Nephi; 1:21-47 Amos, son of Amos; 1:47-49 Ammaron."
+        }
+      ]
+    },
+    {
+      "book": "Mormon",
+      "section": "Plates of Mormon",
+      "chapter_count": 9,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Ammaron",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Ammaron instructs Mormon (1:2-4)."
+        },
+        {
+          "chapter": 2,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 3,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The voice of the Lord commands Mormon to cry repentance (3:2) and declares 'Vengeance is mine' (3:15)."
+        },
+        {
+          "chapter": 4,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 5,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 6,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 7,
+          "authors": [
+            {
+              "name": "Mormon",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ],
+          "notes": "Mormon's farewell address to the remnant."
+        },
+        {
+          "chapter": 8,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ],
+          "notes": "Moroni takes over the record at 8:1."
+        },
+        {
+          "chapter": 9,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Moroni's address to those who deny Christ; he quotes Christ's commission to his disciples (9:22-25)."
+        }
+      ]
+    },
+    {
+      "book": "Ether",
+      "section": "Jaredite Record (Moroni)",
+      "chapter_count": 15,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Ether",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jared",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Ether's genealogy (1:6-32); Jared urges his brother to pray (1:34-39); the Lord answers the brother of Jared (1:40-43)."
+        },
+        {
+          "chapter": 2,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger",
+                "editorial commentator"
+              ]
+            },
+            {
+              "name": "Ether",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "Brother of Jared",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "The brother of Jared's plea concerning the barges (2:18-22); the Lord answers (2:20-25). Moroni comments on the decrees of God concerning the land (2:9-12)."
+        },
+        {
+          "chapter": 3,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger",
+                "editorial commentator"
+              ]
+            },
+            {
+              "name": "Ether",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Brother of Jared",
+              "roles": [
+                "speaker"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "The brother of Jared's prayer (3:2-5) and vision of the Lord, who identifies himself as Jesus Christ (3:14). Moroni comments on the vision (3:17-20)."
+        },
+        {
+          "chapter": 4,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger",
+                "editorial commentator"
+              ]
+            },
+            {
+              "name": "Ether",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Moroni comments (4:1-5) and relays the Lord's words on sealing the record (4:6-19); the speaker names himself as Jesus Christ (4:7-8)."
+        },
+        {
+          "chapter": 5,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger",
+                "editorial commentator"
+              ]
+            }
+          ],
+          "notes": "Moroni's address concerning the witnesses of the plates. The whole chapter is commentary, so no source record keeper is assigned."
+        },
+        {
+          "chapter": 6,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Ether",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 7,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Ether",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 8,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger",
+                "editorial commentator"
+              ]
+            },
+            {
+              "name": "Ether",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "Moroni's warning against secret combinations (8:20-26)."
+        },
+        {
+          "chapter": 9,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Ether",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 10,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Ether",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 11,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Ether",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 12,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger",
+                "editorial commentator"
+              ]
+            },
+            {
+              "name": "Ether",
+              "roles": [
+                "source record keeper"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Moroni's discourse on faith; the Lord answers Moroni (12:26-28, 12:37)."
+        },
+        {
+          "chapter": 13,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger",
+                "editorial commentator"
+              ]
+            },
+            {
+              "name": "Ether",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "Moroni summarizes Ether's prophecy of the New Jerusalem (13:1-13) and states that he is forbidden to write more of it."
+        },
+        {
+          "chapter": 14,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Ether",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 15,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "abridger"
+              ]
+            },
+            {
+              "name": "Ether",
+              "roles": [
+                "source record keeper"
+              ]
+            }
+          ],
+          "notes": "The epistles exchanged by Coriantumr and Shiz (15:4-5, 15:18) are summarized, not reproduced, so neither is listed as a letter writer. Ether finishes his record (15:33-34)."
+        }
+      ]
+    },
+    {
+      "book": "Moroni",
+      "section": "Final Record (Moroni)",
+      "chapter_count": 10,
+      "chapters": [
+        {
+          "chapter": 1,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 2,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Moroni relays the words of Christ to the twelve disciples."
+        },
+        {
+          "chapter": 3,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 4,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 5,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 6,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 7,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Mormon",
+              "roles": [
+                "speaker"
+              ]
+            }
+          ],
+          "notes": "Mormon's sermon on faith, hope, and charity (introduced at 7:1)."
+        },
+        {
+          "chapter": 8,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Mormon",
+              "roles": [
+                "letter writer"
+              ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
+            }
+          ],
+          "notes": "Mormon's first epistle to Moroni, on infant baptism; Mormon records the words of Christ revealed to him (8:7-8)."
+        },
+        {
+          "chapter": 9,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "primary author"
+              ]
+            },
+            {
+              "name": "Mormon",
+              "roles": [
+                "letter writer"
+              ]
+            }
+          ],
+          "notes": "Mormon's second epistle to Moroni."
+        },
+        {
+          "chapter": 10,
+          "authors": [
+            {
+              "name": "Moroni, son of Mormon",
+              "roles": [
+                "primary author"
+              ]
+            }
+          ],
+          "notes": "Moroni's farewell and promise concerning the Holy Ghost."
+        }
+      ]
+    }
+  ]
+}
