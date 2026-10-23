@@ -1,0 +1,34 @@
+{
+  "corpus": "bronte",
+  "source": "Project Gutenberg via github.com/GITenberg",
+  "rule": "novel text from Chapter I to end; prefaces, headings, notes, publisher matter removed",
+  "books": {
+    "charlotte": [
+      "Jane-Eyre_1260",
+      "Villette_9182",
+      "Shirley_30486",
+      "The-Professor_1028"
+    ],
+    "emily": [
+      "Wuthering-Heights_768"
+    ],
+    "anne": [
+      "Agnes-Grey_767",
+      "The-Tenant-of-Wildfell-Hall_969"
+    ]
+  },
+  "authors": {
+    "anne": {
+      "units": 3993,
+      "words": 235286
+    },
+    "charlotte": {
+      "units": 11512,
+      "words": 607375
+    },
+    "emily": {
+      "units": 1902,
+      "words": 117038
+    }
+  }
+}

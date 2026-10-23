@@ -1,0 +1,690 @@
+{
+  "corpus_dir": "/workspaces/BookOfMormonStylometry/stylometry/corpora/bom",
+  "settings": {
+    "segment_size": 500,
+    "words_per_author": 15,
+    "pool": 150,
+    "min_presence": 0.8,
+    "score": "mean",
+    "holdout": false,
+    "function_words": false
+  },
+  "segments_used": {
+    "mormon": 15,
+    "moroni": 7,
+    "nephi": 15
+  },
+  "features": [
+    "after",
+    "and",
+    "be",
+    "brethren",
+    "came",
+    "concerning",
+    "did",
+    "father",
+    "for",
+    "from",
+    "god",
+    "had",
+    "have",
+    "his",
+    "i",
+    "if",
+    "lamanites",
+    "land",
+    "me",
+    "my",
+    "no",
+    "pass",
+    "people",
+    "power",
+    "shall",
+    "should",
+    "speak",
+    "that",
+    "their",
+    "this",
+    "unto",
+    "wherefore",
+    "which",
+    "who",
+    "will",
+    "with",
+    "words",
+    "you"
+  ],
+  "selected_by_author": {
+    "mormon": [
+      "lamanites",
+      "pass",
+      "came",
+      "and",
+      "people",
+      "had",
+      "their",
+      "unto",
+      "did",
+      "land",
+      "for",
+      "with",
+      "be",
+      "his",
+      "this"
+    ],
+    "moroni": [
+      "you",
+      "no",
+      "power",
+      "have",
+      "and",
+      "if",
+      "who",
+      "unto",
+      "from",
+      "be",
+      "shall",
+      "which",
+      "that",
+      "will",
+      "god"
+    ],
+    "nephi": [
+      "wherefore",
+      "and",
+      "after",
+      "unto",
+      "words",
+      "pass",
+      "which",
+      "my",
+      "should",
+      "speak",
+      "concerning",
+      "father",
+      "brethren",
+      "me",
+      "i"
+    ]
+  },
+  "details": {
+    "mormon": [
+      {
+        "word": "lamanites",
+        "score_d": 1.305,
+        "cv": 0.921,
+        "mean_pct": 0.8,
+        "diff_pct_vs": {
+          "moroni": 0.6,
+          "nephi": 0.8
+        }
+      },
+      {
+        "word": "pass",
+        "score_d": 1.171,
+        "cv": 0.648,
+        "mean_pct": 0.8,
+        "diff_pct_vs": {
+          "moroni": 0.7429,
+          "nephi": 0.1733
+        }
+      },
+      {
+        "word": "came",
+        "score_d": 1.166,
+        "cv": 0.707,
+        "mean_pct": 0.8933,
+        "diff_pct_vs": {
+          "moroni": 0.8362,
+          "nephi": 0.28
+        }
+      },
+      {
+        "word": "and",
+        "score_d": 1.155,
+        "cv": 0.168,
+        "mean_pct": 6.7333,
+        "diff_pct_vs": {
+          "moroni": 0.6762,
+          "nephi": 1.7067
+        }
+      },
+      {
+        "word": "people",
+        "score_d": 1.113,
+        "cv": 0.737,
+        "mean_pct": 1.0,
+        "diff_pct_vs": {
+          "moroni": 0.6286,
+          "nephi": 0.6933
+        }
+      },
+      {
+        "word": "had",
+        "score_d": 0.937,
+        "cv": 0.806,
+        "mean_pct": 1.0267,
+        "diff_pct_vs": {
+          "moroni": 0.8267,
+          "nephi": 0.4133
+        }
+      },
+      {
+        "word": "their",
+        "score_d": 0.923,
+        "cv": 0.641,
+        "mean_pct": 1.28,
+        "diff_pct_vs": {
+          "moroni": 0.6514,
+          "nephi": 0.5867
+        }
+      },
+      {
+        "word": "unto",
+        "score_d": 0.898,
+        "cv": 0.71,
+        "mean_pct": 0.96,
+        "diff_pct_vs": {
+          "moroni": -0.2971,
+          "nephi": -1.0
+        }
+      },
+      {
+        "word": "did",
+        "score_d": 0.889,
+        "cv": 0.918,
+        "mean_pct": 1.5333,
+        "diff_pct_vs": {
+          "moroni": 1.2762,
+          "nephi": 0.6533
+        }
+      },
+      {
+        "word": "land",
+        "score_d": 0.874,
+        "cv": 0.779,
+        "mean_pct": 0.4933,
+        "diff_pct_vs": {
+          "moroni": 0.3505,
+          "nephi": 0.2533
+        }
+      },
+      {
+        "word": "for",
+        "score_d": 0.753,
+        "cv": 0.523,
+        "mean_pct": 0.7067,
+        "diff_pct_vs": {
+          "moroni": -0.2933,
+          "nephi": -0.52
+        }
+      },
+      {
+        "word": "with",
+        "score_d": 0.745,
+        "cv": 0.787,
+        "mean_pct": 0.92,
+        "diff_pct_vs": {
+          "moroni": 0.5486,
+          "nephi": 0.32
+        }
+      },
+      {
+        "word": "be",
+        "score_d": 0.71,
+        "cv": 1.25,
+        "mean_pct": 0.8267,
+        "diff_pct_vs": {
+          "moroni": -0.9448,
+          "nephi": -0.4533
+        }
+      },
+      {
+        "word": "his",
+        "score_d": 0.646,
+        "cv": 0.992,
+        "mean_pct": 0.92,
+        "diff_pct_vs": {
+          "moroni": 0.52,
+          "nephi": 0.48
+        }
+      },
+      {
+        "word": "this",
+        "score_d": 0.573,
+        "cv": 0.834,
+        "mean_pct": 0.56,
+        "diff_pct_vs": {
+          "moroni": 0.1314,
+          "nephi": 0.3067
+        }
+      }
+    ],
+    "moroni": [
+      {
+        "word": "you",
+        "score_d": 1.081,
+        "cv": 0.664,
+        "mean_pct": 0.7143,
+        "diff_pct_vs": {
+          "mormon": 0.5543,
+          "nephi": 0.3943
+        }
+      },
+      {
+        "word": "no",
+        "score_d": 1.042,
+        "cv": 0.816,
+        "mean_pct": 0.4,
+        "diff_pct_vs": {
+          "mormon": 0.24,
+          "nephi": 0.2933
+        }
+      },
+      {
+        "word": "power",
+        "score_d": 0.997,
+        "cv": 0.783,
+        "mean_pct": 0.4857,
+        "diff_pct_vs": {
+          "mormon": 0.3124,
+          "nephi": 0.299
+        }
+      },
+      {
+        "word": "have",
+        "score_d": 0.903,
+        "cv": 0.542,
+        "mean_pct": 1.0,
+        "diff_pct_vs": {
+          "mormon": 0.6133,
+          "nephi": 0.3733
+        }
+      },
+      {
+        "word": "and",
+        "score_d": 0.854,
+        "cv": 0.168,
+        "mean_pct": 6.0571,
+        "diff_pct_vs": {
+          "mormon": -0.6762,
+          "nephi": 1.0305
+        }
+      },
+      {
+        "word": "if",
+        "score_d": 0.796,
+        "cv": 1.019,
+        "mean_pct": 0.5714,
+        "diff_pct_vs": {
+          "mormon": 0.4114,
+          "nephi": 0.3448
+        }
+      },
+      {
+        "word": "who",
+        "score_d": 0.768,
+        "cv": 0.416,
+        "mean_pct": 0.4571,
+        "diff_pct_vs": {
+          "mormon": -0.0095,
+          "nephi": 0.3105
+        }
+      },
+      {
+        "word": "unto",
+        "score_d": 0.76,
+        "cv": 0.376,
+        "mean_pct": 1.2571,
+        "diff_pct_vs": {
+          "mormon": 0.2971,
+          "nephi": -0.7029
+        }
+      },
+      {
+        "word": "from",
+        "score_d": 0.748,
+        "cv": 0.577,
+        "mean_pct": 0.2,
+        "diff_pct_vs": {
+          "mormon": -0.16,
+          "nephi": -0.1867
+        }
+      },
+      {
+        "word": "be",
+        "score_d": 0.726,
+        "cv": 0.599,
+        "mean_pct": 1.7714,
+        "diff_pct_vs": {
+          "mormon": 0.9448,
+          "nephi": 0.4914
+        }
+      },
+      {
+        "word": "shall",
+        "score_d": 0.724,
+        "cv": 0.999,
+        "mean_pct": 1.8286,
+        "diff_pct_vs": {
+          "mormon": 1.2152,
+          "nephi": 0.9352
+        }
+      },
+      {
+        "word": "which",
+        "score_d": 0.688,
+        "cv": 0.745,
+        "mean_pct": 0.6286,
+        "diff_pct_vs": {
+          "mormon": -0.1714,
+          "nephi": -0.5981
+        }
+      },
+      {
+        "word": "that",
+        "score_d": 0.675,
+        "cv": 0.358,
+        "mean_pct": 2.1714,
+        "diff_pct_vs": {
+          "mormon": -0.5086,
+          "nephi": -0.5619
+        }
+      },
+      {
+        "word": "will",
+        "score_d": 0.664,
+        "cv": 0.591,
+        "mean_pct": 0.5429,
+        "diff_pct_vs": {
+          "mormon": 0.2895,
+          "nephi": 0.1562
+        }
+      },
+      {
+        "word": "god",
+        "score_d": 0.658,
+        "cv": 0.563,
+        "mean_pct": 0.9143,
+        "diff_pct_vs": {
+          "mormon": 0.4076,
+          "nephi": 0.2476
+        }
+      }
+    ],
+    "nephi": [
+      {
+        "word": "wherefore",
+        "score_d": 1.915,
+        "cv": 0.54,
+        "mean_pct": 0.7467,
+        "diff_pct_vs": {
+          "mormon": 0.6933,
+          "moroni": 0.5467
+        }
+      },
+      {
+        "word": "and",
+        "score_d": 1.38,
+        "cv": 0.177,
+        "mean_pct": 5.0267,
+        "diff_pct_vs": {
+          "mormon": -1.7067,
+          "moroni": -1.0305
+        }
+      },
+      {
+        "word": "after",
+        "score_d": 1.259,
+        "cv": 0.736,
+        "mean_pct": 0.6533,
+        "diff_pct_vs": {
+          "mormon": 0.5067,
+          "moroni": 0.4533
+        }
+      },
+      {
+        "word": "unto",
+        "score_d": 1.152,
+        "cv": 0.438,
+        "mean_pct": 1.96,
+        "diff_pct_vs": {
+          "mormon": 1.0,
+          "moroni": 0.7029
+        }
+      },
+      {
+        "word": "words",
+        "score_d": 1.088,
+        "cv": 0.884,
+        "mean_pct": 0.3867,
+        "diff_pct_vs": {
+          "mormon": 0.24,
+          "moroni": 0.3295
+        }
+      },
+      {
+        "word": "pass",
+        "score_d": 1.012,
+        "cv": 0.752,
+        "mean_pct": 0.6267,
+        "diff_pct_vs": {
+          "mormon": -0.1733,
+          "moroni": 0.5695
+        }
+      },
+      {
+        "word": "which",
+        "score_d": 0.867,
+        "cv": 0.511,
+        "mean_pct": 1.2267,
+        "diff_pct_vs": {
+          "mormon": 0.4267,
+          "moroni": 0.5981
+        }
+      },
+      {
+        "word": "my",
+        "score_d": 0.845,
+        "cv": 0.605,
+        "mean_pct": 1.28,
+        "diff_pct_vs": {
+          "mormon": 0.6267,
+          "moroni": 0.7657
+        }
+      },
+      {
+        "word": "should",
+        "score_d": 0.816,
+        "cv": 1.327,
+        "mean_pct": 0.8533,
+        "diff_pct_vs": {
+          "mormon": 0.68,
+          "moroni": 0.6533
+        }
+      },
+      {
+        "word": "speak",
+        "score_d": 0.8,
+        "cv": 0.849,
+        "mean_pct": 0.3067,
+        "diff_pct_vs": {
+          "mormon": 0.1867,
+          "moroni": 0.1638
+        }
+      },
+      {
+        "word": "concerning",
+        "score_d": 0.775,
+        "cv": 1.09,
+        "mean_pct": 0.4267,
+        "diff_pct_vs": {
+          "mormon": 0.3067,
+          "moroni": 0.2552
+        }
+      },
+      {
+        "word": "father",
+        "score_d": 0.773,
+        "cv": 0.79,
+        "mean_pct": 0.5733,
+        "diff_pct_vs": {
+          "mormon": 0.48,
+          "moroni": 0.0876
+        }
+      },
+      {
+        "word": "brethren",
+        "score_d": 0.699,
+        "cv": 0.701,
+        "mean_pct": 0.32,
+        "diff_pct_vs": {
+          "mormon": 0.1733,
+          "moroni": 0.1486
+        }
+      },
+      {
+        "word": "me",
+        "score_d": 0.686,
+        "cv": 0.869,
+        "mean_pct": 0.5867,
+        "diff_pct_vs": {
+          "mormon": 0.32,
+          "moroni": 0.2724
+        }
+      },
+      {
+        "word": "i",
+        "score_d": 0.657,
+        "cv": 0.527,
+        "mean_pct": 2.04,
+        "diff_pct_vs": {
+          "mormon": 1.1333,
+          "moroni": 0.2971
+        }
+      }
+    ]
+  },
+  "author_means_pct": {
+    "mormon": {
+      "after": 0.1467,
+      "and": 6.7333,
+      "be": 0.8267,
+      "brethren": 0.1467,
+      "came": 0.8933,
+      "concerning": 0.12,
+      "did": 1.5333,
+      "father": 0.0933,
+      "for": 0.7067,
+      "from": 0.36,
+      "god": 0.5067,
+      "had": 1.0267,
+      "have": 0.3867,
+      "his": 0.92,
+      "i": 0.9067,
+      "if": 0.16,
+      "lamanites": 0.8,
+      "land": 0.4933,
+      "me": 0.2667,
+      "my": 0.6533,
+      "no": 0.16,
+      "pass": 0.8,
+      "people": 1.0,
+      "power": 0.1733,
+      "shall": 0.6133,
+      "should": 0.1733,
+      "speak": 0.12,
+      "that": 2.68,
+      "their": 1.28,
+      "this": 0.56,
+      "unto": 0.96,
+      "wherefore": 0.0533,
+      "which": 0.8,
+      "who": 0.4667,
+      "will": 0.2533,
+      "with": 0.92,
+      "words": 0.1467,
+      "you": 0.16
+    },
+    "moroni": {
+      "after": 0.2,
+      "and": 6.0571,
+      "be": 1.7714,
+      "brethren": 0.1714,
+      "came": 0.0571,
+      "concerning": 0.1714,
+      "did": 0.2571,
+      "father": 0.4857,
+      "for": 1.0,
+      "from": 0.2,
+      "god": 0.9143,
+      "had": 0.2,
+      "have": 1.0,
+      "his": 0.4,
+      "i": 1.7429,
+      "if": 0.5714,
+      "lamanites": 0.2,
+      "land": 0.1429,
+      "me": 0.3143,
+      "my": 0.5143,
+      "no": 0.4,
+      "pass": 0.0571,
+      "people": 0.3714,
+      "power": 0.4857,
+      "shall": 1.8286,
+      "should": 0.2,
+      "speak": 0.1429,
+      "that": 2.1714,
+      "their": 0.6286,
+      "this": 0.4286,
+      "unto": 1.2571,
+      "wherefore": 0.2,
+      "which": 0.6286,
+      "who": 0.4571,
+      "will": 0.5429,
+      "with": 0.3714,
+      "words": 0.0571,
+      "you": 0.7143
+    },
+    "nephi": {
+      "after": 0.6533,
+      "and": 5.0267,
+      "be": 1.28,
+      "brethren": 0.32,
+      "came": 0.6133,
+      "concerning": 0.4267,
+      "did": 0.88,
+      "father": 0.5733,
+      "for": 1.2267,
+      "from": 0.3867,
+      "god": 0.6667,
+      "had": 0.6133,
+      "have": 0.6267,
+      "his": 0.44,
+      "i": 2.04,
+      "if": 0.2267,
+      "lamanites": 0.0,
+      "land": 0.24,
+      "me": 0.5867,
+      "my": 1.28,
+      "no": 0.1067,
+      "pass": 0.6267,
+      "people": 0.3067,
+      "power": 0.1867,
+      "shall": 0.8933,
+      "should": 0.8533,
+      "speak": 0.3067,
+      "that": 2.7333,
+      "their": 0.6933,
+      "this": 0.2533,
+      "unto": 1.96,
+      "wherefore": 0.7467,
+      "which": 1.2267,
+      "who": 0.1467,
+      "will": 0.3867,
+      "with": 0.6,
+      "words": 0.3867,
+      "you": 0.32
+    }
+  }
+}

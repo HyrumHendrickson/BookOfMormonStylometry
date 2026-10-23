@@ -1,0 +1,87 @@
+{
+  "corpus": "bronte",
+  "metric": "cosine",
+  "segment_size": 1000,
+  "segments": {
+    "anne": 235,
+    "charlotte": 607,
+    "emily": 117
+  },
+  "features": [
+    "a",
+    "all",
+    "and",
+    "but",
+    "catherine",
+    "for",
+    "he",
+    "heathcliff",
+    "him",
+    "his",
+    "if",
+    "in",
+    "into",
+    "my",
+    "of",
+    "on",
+    "or",
+    "out",
+    "so",
+    "such",
+    "the",
+    "this",
+    "to",
+    "too",
+    "up",
+    "upon",
+    "was",
+    "well",
+    "which",
+    "with"
+  ],
+  "evaluated_on": "all",
+  "authors": {
+    "anne": {
+      "mean_within": 0.8057416792015246,
+      "mean_between": {
+        "charlotte": 1.0756180057850582,
+        "emily": 1.0723486616326976
+      },
+      "auc_within_vs_between": 0.827328167406951,
+      "nn_accuracy": 0.9191489361702128,
+      "nn_assigned_to": {
+        "anne": 216,
+        "charlotte": 19
+      }
+    },
+    "charlotte": {
+      "mean_within": 0.949914702068614,
+      "mean_between": {
+        "anne": 1.0756180057850582,
+        "emily": 1.0627019424298338
+      },
+      "auc_within_vs_between": 0.6650685033698689,
+      "nn_accuracy": 0.9060955518945635,
+      "nn_assigned_to": {
+        "charlotte": 550,
+        "anne": 48,
+        "emily": 9
+      }
+    },
+    "emily": {
+      "mean_within": 0.6122399364380559,
+      "mean_between": {
+        "anne": 1.0723486616326976,
+        "charlotte": 1.0627019424298338
+      },
+      "auc_within_vs_between": 0.9498872565510039,
+      "nn_accuracy": 0.9487179487179487,
+      "nn_assigned_to": {
+        "emily": 111,
+        "anne": 2,
+        "charlotte": 4
+      }
+    }
+  },
+  "overall_nn_accuracy": 0.9144942648592284
+}

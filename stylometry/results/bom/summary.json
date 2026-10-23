@@ -1,0 +1,95 @@
+{
+  "corpus": "bom",
+  "metric": "cosine",
+  "segment_size": 500,
+  "segments": {
+    "mormon": 15,
+    "moroni": 7,
+    "nephi": 15
+  },
+  "features": [
+    "after",
+    "and",
+    "be",
+    "brethren",
+    "came",
+    "concerning",
+    "did",
+    "father",
+    "for",
+    "from",
+    "god",
+    "had",
+    "have",
+    "his",
+    "i",
+    "if",
+    "lamanites",
+    "land",
+    "me",
+    "my",
+    "no",
+    "pass",
+    "people",
+    "power",
+    "shall",
+    "should",
+    "speak",
+    "that",
+    "their",
+    "this",
+    "unto",
+    "wherefore",
+    "which",
+    "who",
+    "will",
+    "with",
+    "words",
+    "you"
+  ],
+  "evaluated_on": "all",
+  "authors": {
+    "mormon": {
+      "mean_within": 0.8785452297915449,
+      "mean_between": {
+        "moroni": 1.08926836766664,
+        "nephi": 1.1407906407021524
+      },
+      "auc_within_vs_between": 0.747994227994228,
+      "nn_accuracy": 0.8,
+      "nn_assigned_to": {
+        "nephi": 1,
+        "mormon": 12,
+        "moroni": 2
+      }
+    },
+    "moroni": {
+      "mean_within": 0.7792306756309662,
+      "mean_between": {
+        "mormon": 1.08926836766664,
+        "nephi": 1.0526271857633434
+      },
+      "auc_within_vs_between": 0.8204081632653061,
+      "nn_accuracy": 0.5714285714285714,
+      "nn_assigned_to": {
+        "nephi": 2,
+        "moroni": 4,
+        "mormon": 1
+      }
+    },
+    "nephi": {
+      "mean_within": 0.8913056312085412,
+      "mean_between": {
+        "mormon": 1.1407906407021524,
+        "moroni": 1.0526271857633436
+      },
+      "auc_within_vs_between": 0.7582106782106782,
+      "nn_accuracy": 0.9333333333333333,
+      "nn_assigned_to": {
+        "nephi": 14,
+        "mormon": 1
+      }
+    }
+  },
+  "overall_nn_accuracy": 0.8108108108108109
+}

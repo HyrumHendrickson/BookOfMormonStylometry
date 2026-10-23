@@ -1,0 +1,84 @@
+{
+  "corpus": "federalist",
+  "metric": "cosine",
+  "segment_size": 1000,
+  "segments": {
+    "hamilton": 111,
+    "jay": 8,
+    "madison": 38
+  },
+  "features": [
+    "a",
+    "america",
+    "an",
+    "and",
+    "been",
+    "by",
+    "circumstances",
+    "constitution",
+    "if",
+    "in",
+    "is",
+    "no",
+    "of",
+    "on",
+    "only",
+    "others",
+    "states",
+    "the",
+    "their",
+    "them",
+    "there",
+    "they",
+    "this",
+    "to",
+    "upon",
+    "us",
+    "well",
+    "which"
+  ],
+  "evaluated_on": "all",
+  "authors": {
+    "hamilton": {
+      "mean_within": 0.9633316415722402,
+      "mean_between": {
+        "jay": 1.0986188254037692,
+        "madison": 1.083508729724567
+      },
+      "auc_within_vs_between": 0.6683135223675765,
+      "nn_accuracy": 0.9279279279279279,
+      "nn_assigned_to": {
+        "hamilton": 103,
+        "madison": 7,
+        "jay": 1
+      }
+    },
+    "jay": {
+      "mean_within": 0.39119241024116846,
+      "mean_between": {
+        "hamilton": 1.0986188254037692,
+        "madison": 0.9449829583883659
+      },
+      "auc_within_vs_between": 0.9964944870565676,
+      "nn_accuracy": 1.0,
+      "nn_assigned_to": {
+        "jay": 8
+      }
+    },
+    "madison": {
+      "mean_within": 0.8256932369583515,
+      "mean_between": {
+        "hamilton": 1.0835087297245671,
+        "jay": 0.9449829583883659
+      },
+      "auc_within_vs_between": 0.8144069486745061,
+      "nn_accuracy": 0.8157894736842105,
+      "nn_assigned_to": {
+        "madison": 31,
+        "hamilton": 6,
+        "jay": 1
+      }
+    }
+  },
+  "overall_nn_accuracy": 0.9044585987261147
+}

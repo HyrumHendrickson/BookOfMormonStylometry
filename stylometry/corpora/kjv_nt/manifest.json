@@ -1,0 +1,40 @@
+{
+  "corpus": "kjv_nt",
+  "source": "https://raw.githubusercontent.com/thiagobodruk/bible/master/json/en_kjv.json",
+  "rule": "traditional attribution; disputed Pauline epistles, Hebrews, and Revelation excluded",
+  "books": {
+    "paul": [
+      "Romans",
+      "1 Corinthians",
+      "2 Corinthians",
+      "Galatians",
+      "Philippians",
+      "1 Thessalonians",
+      "Philemon"
+    ],
+    "luke": [
+      "Luke",
+      "Acts"
+    ],
+    "john": [
+      "John",
+      "1 John",
+      "2 John",
+      "3 John"
+    ]
+  },
+  "authors": {
+    "john": {
+      "units": 28,
+      "words": 22203
+    },
+    "luke": {
+      "units": 52,
+      "words": 50185
+    },
+    "paul": {
+      "units": 61,
+      "words": 32488
+    }
+  }
+}

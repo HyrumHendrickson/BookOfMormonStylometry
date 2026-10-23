@@ -1,0 +1,650 @@
+{
+  "corpus_dir": "/workspaces/BookOfMormonStylometry/stylometry/corpora/federalist",
+  "settings": {
+    "segment_size": 1000,
+    "words_per_author": 15,
+    "pool": 150,
+    "min_presence": 0.8,
+    "score": "mean",
+    "holdout": false,
+    "function_words": false
+  },
+  "segments_used": {
+    "hamilton": 111,
+    "jay": 8,
+    "madison": 38
+  },
+  "features": [
+    "a",
+    "america",
+    "an",
+    "and",
+    "been",
+    "by",
+    "circumstances",
+    "constitution",
+    "if",
+    "in",
+    "is",
+    "no",
+    "of",
+    "on",
+    "only",
+    "others",
+    "states",
+    "the",
+    "their",
+    "them",
+    "there",
+    "they",
+    "this",
+    "to",
+    "upon",
+    "us",
+    "well",
+    "which"
+  ],
+  "selected_by_author": {
+    "hamilton": [
+      "and",
+      "upon",
+      "of",
+      "the",
+      "there",
+      "an",
+      "a",
+      "on",
+      "to",
+      "this",
+      "in",
+      "by",
+      "their",
+      "which",
+      "them"
+    ],
+    "jay": [
+      "and",
+      "of",
+      "the",
+      "an",
+      "america",
+      "well",
+      "a",
+      "only",
+      "circumstances",
+      "others",
+      "which",
+      "is",
+      "they",
+      "them",
+      "us"
+    ],
+    "madison": [
+      "and",
+      "the",
+      "of",
+      "on",
+      "an",
+      "constitution",
+      "no",
+      "a",
+      "by",
+      "to",
+      "is",
+      "states",
+      "them",
+      "if",
+      "been"
+    ]
+  },
+  "details": {
+    "hamilton": [
+      {
+        "word": "and",
+        "score_d": 2.228,
+        "cv": 0.259,
+        "mean_pct": 2.4063,
+        "diff_pct_vs": {
+          "jay": -2.4562,
+          "madison": -0.5963
+        }
+      },
+      {
+        "word": "upon",
+        "score_d": 2.201,
+        "cv": 0.6,
+        "mean_pct": 0.3333,
+        "diff_pct_vs": {
+          "jay": 0.3208,
+          "madison": 0.3149
+        }
+      },
+      {
+        "word": "of",
+        "score_d": 1.846,
+        "cv": 0.13,
+        "mean_pct": 6.4036,
+        "diff_pct_vs": {
+          "jay": 2.1411,
+          "madison": 0.4615
+        }
+      },
+      {
+        "word": "the",
+        "score_d": 1.511,
+        "cv": 0.135,
+        "mean_pct": 9.1829,
+        "diff_pct_vs": {
+          "jay": 3.1579,
+          "madison": -0.8224
+        }
+      },
+      {
+        "word": "there",
+        "score_d": 1.321,
+        "cv": 0.667,
+        "mean_pct": 0.3423,
+        "diff_pct_vs": {
+          "jay": 0.2173,
+          "madison": 0.2581
+        }
+      },
+      {
+        "word": "an",
+        "score_d": 1.288,
+        "cv": 0.453,
+        "mean_pct": 0.5667,
+        "diff_pct_vs": {
+          "jay": 0.3792,
+          "madison": 0.1456
+        }
+      },
+      {
+        "word": "a",
+        "score_d": 1.06,
+        "cv": 0.259,
+        "mean_pct": 2.2207,
+        "diff_pct_vs": {
+          "jay": 1.0332,
+          "madison": 0.2312
+        }
+      },
+      {
+        "word": "on",
+        "score_d": 1.038,
+        "cv": 0.725,
+        "mean_pct": 0.3369,
+        "diff_pct_vs": {
+          "jay": -0.1881,
+          "madison": -0.421
+        }
+      },
+      {
+        "word": "to",
+        "score_d": 1.034,
+        "cv": 0.178,
+        "mean_pct": 4.0441,
+        "diff_pct_vs": {
+          "jay": 0.5816,
+          "madison": 0.8047
+        }
+      },
+      {
+        "word": "this",
+        "score_d": 0.89,
+        "cv": 0.346,
+        "mean_pct": 0.8117,
+        "diff_pct_vs": {
+          "jay": 0.3367,
+          "madison": 0.1749
+        }
+      },
+      {
+        "word": "in",
+        "score_d": 0.844,
+        "cv": 0.255,
+        "mean_pct": 2.4973,
+        "diff_pct_vs": {
+          "jay": 0.5473,
+          "madison": 0.4131
+        }
+      },
+      {
+        "word": "by",
+        "score_d": 0.807,
+        "cv": 0.463,
+        "mean_pct": 0.7595,
+        "diff_pct_vs": {
+          "jay": -0.203,
+          "madison": -0.3958
+        }
+      },
+      {
+        "word": "their",
+        "score_d": 0.783,
+        "cv": 0.64,
+        "mean_pct": 0.5135,
+        "diff_pct_vs": {
+          "jay": -0.4615,
+          "madison": -0.0865
+        }
+      },
+      {
+        "word": "which",
+        "score_d": 0.747,
+        "cv": 0.344,
+        "mean_pct": 1.1072,
+        "diff_pct_vs": {
+          "jay": 0.4322,
+          "madison": 0.0283
+        }
+      },
+      {
+        "word": "them",
+        "score_d": 0.733,
+        "cv": 0.753,
+        "mean_pct": 0.2631,
+        "diff_pct_vs": {
+          "jay": -0.3244,
+          "madison": -0.029
+        }
+      }
+    ],
+    "jay": [
+      {
+        "word": "and",
+        "score_d": 3.056,
+        "cv": 0.154,
+        "mean_pct": 4.8625,
+        "diff_pct_vs": {
+          "hamilton": 2.4562,
+          "madison": 1.8599
+        }
+      },
+      {
+        "word": "of",
+        "score_d": 2.796,
+        "cv": 0.115,
+        "mean_pct": 4.2625,
+        "diff_pct_vs": {
+          "hamilton": -2.1411,
+          "madison": -1.6796
+        }
+      },
+      {
+        "word": "the",
+        "score_d": 2.532,
+        "cv": 0.218,
+        "mean_pct": 6.025,
+        "diff_pct_vs": {
+          "hamilton": -3.1579,
+          "madison": -3.9803
+        }
+      },
+      {
+        "word": "an",
+        "score_d": 1.698,
+        "cv": 0.529,
+        "mean_pct": 0.1875,
+        "diff_pct_vs": {
+          "hamilton": -0.3792,
+          "madison": -0.2336
+        }
+      },
+      {
+        "word": "america",
+        "score_d": 1.516,
+        "cv": 0.656,
+        "mean_pct": 0.2875,
+        "diff_pct_vs": {
+          "hamilton": 0.247,
+          "madison": 0.2086
+        }
+      },
+      {
+        "word": "well",
+        "score_d": 1.511,
+        "cv": 0.539,
+        "mean_pct": 0.325,
+        "diff_pct_vs": {
+          "hamilton": 0.2169,
+          "madison": 0.2224
+        }
+      },
+      {
+        "word": "a",
+        "score_d": 1.489,
+        "cv": 0.502,
+        "mean_pct": 1.1875,
+        "diff_pct_vs": {
+          "hamilton": -1.0332,
+          "madison": -0.802
+        }
+      },
+      {
+        "word": "only",
+        "score_d": 1.464,
+        "cv": 0.318,
+        "mean_pct": 0.325,
+        "diff_pct_vs": {
+          "hamilton": 0.1854,
+          "madison": 0.1645
+        }
+      },
+      {
+        "word": "circumstances",
+        "score_d": 1.389,
+        "cv": 0.566,
+        "mean_pct": 0.125,
+        "diff_pct_vs": {
+          "hamilton": 0.0718,
+          "madison": 0.1066
+        }
+      },
+      {
+        "word": "others",
+        "score_d": 1.315,
+        "cv": 0.653,
+        "mean_pct": 0.1625,
+        "diff_pct_vs": {
+          "hamilton": 0.1238,
+          "madison": 0.1151
+        }
+      },
+      {
+        "word": "which",
+        "score_d": 1.307,
+        "cv": 0.294,
+        "mean_pct": 0.675,
+        "diff_pct_vs": {
+          "hamilton": -0.4322,
+          "madison": -0.4039
+        }
+      },
+      {
+        "word": "is",
+        "score_d": 1.3,
+        "cv": 0.426,
+        "mean_pct": 0.6625,
+        "diff_pct_vs": {
+          "hamilton": -0.5069,
+          "madison": -0.5822
+        }
+      },
+      {
+        "word": "they",
+        "score_d": 1.3,
+        "cv": 0.499,
+        "mean_pct": 1.0125,
+        "diff_pct_vs": {
+          "hamilton": 0.5431,
+          "madison": 0.5414
+        }
+      },
+      {
+        "word": "them",
+        "score_d": 1.282,
+        "cv": 0.494,
+        "mean_pct": 0.5875,
+        "diff_pct_vs": {
+          "hamilton": 0.3244,
+          "madison": 0.2954
+        }
+      },
+      {
+        "word": "us",
+        "score_d": 1.205,
+        "cv": 0.601,
+        "mean_pct": 0.2875,
+        "diff_pct_vs": {
+          "hamilton": 0.156,
+          "madison": 0.2086
+        }
+      }
+    ],
+    "madison": [
+      {
+        "word": "and",
+        "score_d": 1.719,
+        "cv": 0.237,
+        "mean_pct": 3.0026,
+        "diff_pct_vs": {
+          "hamilton": 0.5963,
+          "jay": -1.8599
+        }
+      },
+      {
+        "word": "the",
+        "score_d": 1.566,
+        "cv": 0.173,
+        "mean_pct": 10.0053,
+        "diff_pct_vs": {
+          "hamilton": 0.8224,
+          "jay": 3.9803
+        }
+      },
+      {
+        "word": "of",
+        "score_d": 1.504,
+        "cv": 0.141,
+        "mean_pct": 5.9421,
+        "diff_pct_vs": {
+          "hamilton": -0.4615,
+          "jay": 1.6796
+        }
+      },
+      {
+        "word": "on",
+        "score_d": 1.07,
+        "cv": 0.432,
+        "mean_pct": 0.7579,
+        "diff_pct_vs": {
+          "hamilton": 0.421,
+          "jay": 0.2329
+        }
+      },
+      {
+        "word": "an",
+        "score_d": 1.037,
+        "cv": 0.488,
+        "mean_pct": 0.4211,
+        "diff_pct_vs": {
+          "hamilton": -0.1456,
+          "jay": 0.2336
+        }
+      },
+      {
+        "word": "constitution",
+        "score_d": 0.975,
+        "cv": 0.782,
+        "mean_pct": 0.3553,
+        "diff_pct_vs": {
+          "hamilton": 0.1472,
+          "jay": 0.2928
+        }
+      },
+      {
+        "word": "no",
+        "score_d": 0.887,
+        "cv": 0.673,
+        "mean_pct": 0.3395,
+        "diff_pct_vs": {
+          "hamilton": 0.0854,
+          "jay": 0.2395
+        }
+      },
+      {
+        "word": "a",
+        "score_d": 0.784,
+        "cv": 0.362,
+        "mean_pct": 1.9895,
+        "diff_pct_vs": {
+          "hamilton": -0.2312,
+          "jay": 0.802
+        }
+      },
+      {
+        "word": "by",
+        "score_d": 0.776,
+        "cv": 0.345,
+        "mean_pct": 1.1553,
+        "diff_pct_vs": {
+          "hamilton": 0.3958,
+          "jay": 0.1928
+        }
+      },
+      {
+        "word": "to",
+        "score_d": 0.776,
+        "cv": 0.195,
+        "mean_pct": 3.2395,
+        "diff_pct_vs": {
+          "hamilton": -0.8047,
+          "jay": -0.223
+        }
+      },
+      {
+        "word": "is",
+        "score_d": 0.766,
+        "cv": 0.42,
+        "mean_pct": 1.2447,
+        "diff_pct_vs": {
+          "hamilton": 0.0754,
+          "jay": 0.5822
+        }
+      },
+      {
+        "word": "states",
+        "score_d": 0.75,
+        "cv": 0.778,
+        "mean_pct": 0.6421,
+        "diff_pct_vs": {
+          "hamilton": 0.2394,
+          "jay": 0.4171
+        }
+      },
+      {
+        "word": "them",
+        "score_d": 0.709,
+        "cv": 0.554,
+        "mean_pct": 0.2921,
+        "diff_pct_vs": {
+          "hamilton": 0.029,
+          "jay": -0.2954
+        }
+      },
+      {
+        "word": "if",
+        "score_d": 0.706,
+        "cv": 0.78,
+        "mean_pct": 0.2132,
+        "diff_pct_vs": {
+          "hamilton": -0.1265,
+          "jay": -0.1993
+        }
+      },
+      {
+        "word": "been",
+        "score_d": 0.688,
+        "cv": 0.614,
+        "mean_pct": 0.4868,
+        "diff_pct_vs": {
+          "hamilton": 0.0526,
+          "jay": 0.2993
+        }
+      }
+    ]
+  },
+  "author_means_pct": {
+    "hamilton": {
+      "a": 2.2207,
+      "america": 0.0405,
+      "an": 0.5667,
+      "and": 2.4063,
+      "been": 0.4342,
+      "by": 0.7595,
+      "circumstances": 0.0532,
+      "constitution": 0.2081,
+      "if": 0.3396,
+      "in": 2.4973,
+      "is": 1.1694,
+      "no": 0.2541,
+      "of": 6.4036,
+      "on": 0.3369,
+      "only": 0.1396,
+      "others": 0.0387,
+      "states": 0.4027,
+      "the": 9.1829,
+      "their": 0.5135,
+      "them": 0.2631,
+      "there": 0.3423,
+      "they": 0.4694,
+      "this": 0.8117,
+      "to": 4.0441,
+      "upon": 0.3333,
+      "us": 0.1315,
+      "well": 0.1081,
+      "which": 1.1072
+    },
+    "jay": {
+      "a": 1.1875,
+      "america": 0.2875,
+      "an": 0.1875,
+      "and": 4.8625,
+      "been": 0.1875,
+      "by": 0.9625,
+      "circumstances": 0.125,
+      "constitution": 0.0625,
+      "if": 0.4125,
+      "in": 1.95,
+      "is": 0.6625,
+      "no": 0.1,
+      "of": 4.2625,
+      "on": 0.525,
+      "only": 0.325,
+      "others": 0.1625,
+      "states": 0.225,
+      "the": 6.025,
+      "their": 0.975,
+      "them": 0.5875,
+      "there": 0.125,
+      "they": 1.0125,
+      "this": 0.475,
+      "to": 3.4625,
+      "upon": 0.0125,
+      "us": 0.2875,
+      "well": 0.325,
+      "which": 0.675
+    },
+    "madison": {
+      "a": 1.9895,
+      "america": 0.0789,
+      "an": 0.4211,
+      "and": 3.0026,
+      "been": 0.4868,
+      "by": 1.1553,
+      "circumstances": 0.0184,
+      "constitution": 0.3553,
+      "if": 0.2132,
+      "in": 2.0842,
+      "is": 1.2447,
+      "no": 0.3395,
+      "of": 5.9421,
+      "on": 0.7579,
+      "only": 0.1605,
+      "others": 0.0474,
+      "states": 0.6421,
+      "the": 10.0053,
+      "their": 0.6,
+      "them": 0.2921,
+      "there": 0.0842,
+      "they": 0.4711,
+      "this": 0.6368,
+      "to": 3.2395,
+      "upon": 0.0184,
+      "us": 0.0789,
+      "well": 0.1026,
+      "which": 1.0789
+    }
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "corpus_dir": "/workspaces/BookOfMormonStylometry/stylometry/corpora/kjv_nt",
+  "settings": {
+    "segment_size": 1000,
+    "words_per_author": 15,
+    "pool": 150,
+    "min_presence": 0.8,
+    "score": "mean",
+    "holdout": false,
+    "function_words": false
+  },
+  "segments_used": {
+    "john": 22,
+    "luke": 50,
+    "paul": 32
+  },
+  "features": [
+    "all",
+    "and",
+    "answered",
+    "are",
+    "as",
+    "be",
+    "because",
+    "believe",
+    "but",
+    "by",
+    "came",
+    "certain",
+    "christ",
+    "for",
+    "he",
+    "him",
+    "his",
+    "is",
+    "jesus",
+    "not",
+    "or",
+    "said",
+    "saying",
+    "that",
+    "they",
+    "to",
+    "unto",
+    "when"
+  ],
+  "selected_by_author": {
+    "john": [
+      "and",
+      "to",
+      "jesus",
+      "believe",
+      "be",
+      "him",
+      "answered",
+      "for",
+      "he",
+      "all",
+      "because",
+      "but",
+      "not",
+      "said",
+      "by"
+    ],
+    "luke": [
+      "and",
+      "not",
+      "but",
+      "that",
+      "saying",
+      "certain",
+      "when",
+      "said",
+      "is",
+      "came",
+      "for",
+      "him",
+      "they",
+      "to",
+      "jesus"
+    ],
+    "paul": [
+      "and",
+      "for",
+      "him",
+      "be",
+      "he",
+      "but",
+      "are",
+      "christ",
+      "as",
+      "unto",
+      "by",
+      "when",
+      "or",
+      "they",
+      "his"
+    ]
+  },
+  "details": {
+    "john": [
+      {
+        "word": "and",
+        "score_d": 2.198,
+        "cv": 0.176,
+        "mean_pct": 4.8091,
+        "diff_pct_vs": {
+          "luke": -2.4769,
+          "paul": 1.8216
+        }
+      },
+      {
+        "word": "to",
+        "score_d": 1.901,
+        "cv": 0.413,
+        "mean_pct": 1.0909,
+        "diff_pct_vs": {
+          "luke": -1.1451,
+          "paul": -1.0497
+        }
+      },
+      {
+        "word": "jesus",
+        "score_d": 1.762,
+        "cv": 0.479,
+        "mean_pct": 1.2273,
+        "diff_pct_vs": {
+          "luke": 0.8913,
+          "paul": 0.7929
+        }
+      },
+      {
+        "word": "believe",
+        "score_d": 1.617,
+        "cv": 0.627,
+        "mean_pct": 0.2545,
+        "diff_pct_vs": {
+          "luke": 0.2245,
+          "paul": 0.1827
+        }
+      },
+      {
+        "word": "be",
+        "score_d": 1.577,
+        "cv": 0.622,
+        "mean_pct": 0.5045,
+        "diff_pct_vs": {
+          "luke": -0.2435,
+          "paul": -0.9205
+        }
+      },
+      {
+        "word": "him",
+        "score_d": 1.525,
+        "cv": 0.411,
+        "mean_pct": 2.1273,
+        "diff_pct_vs": {
+          "luke": 0.4933,
+          "paul": 1.6429
+        }
+      },
+      {
+        "word": "answered",
+        "score_d": 1.464,
+        "cv": 0.812,
+        "mean_pct": 0.35,
+        "diff_pct_vs": {
+          "luke": 0.256,
+          "paul": 0.35
+        }
+      },
+      {
+        "word": "for",
+        "score_d": 1.396,
+        "cv": 0.328,
+        "mean_pct": 0.9045,
+        "diff_pct_vs": {
+          "luke": -0.0295,
+          "paul": -1.1955
+        }
+      },
+      {
+        "word": "he",
+        "score_d": 1.327,
+        "cv": 0.338,
+        "mean_pct": 2.4182,
+        "diff_pct_vs": {
+          "luke": 0.3362,
+          "paul": 1.5932
+        }
+      },
+      {
+        "word": "all",
+        "score_d": 1.303,
+        "cv": 0.672,
+        "mean_pct": 0.2818,
+        "diff_pct_vs": {
+          "luke": -0.4102,
+          "paul": -0.5182
+        }
+      },
+      {
+        "word": "because",
+        "score_d": 1.225,
+        "cv": 0.747,
+        "mean_pct": 0.4318,
+        "diff_pct_vs": {
+          "luke": 0.3078,
+          "paul": 0.2912
+        }
+      },
+      {
+        "word": "but",
+        "score_d": 1.206,
+        "cv": 0.352,
+        "mean_pct": 1.0318,
+        "diff_pct_vs": {
+          "luke": 0.3938,
+          "paul": -0.4838
+        }
+      },
+      {
+        "word": "not",
+        "score_d": 1.206,
+        "cv": 0.274,
+        "mean_pct": 1.6455,
+        "diff_pct_vs": {
+          "luke": 0.9075,
+          "paul": -0.1545
+        }
+      },
+      {
+        "word": "said",
+        "score_d": 1.192,
+        "cv": 0.653,
+        "mean_pct": 1.0773,
+        "diff_pct_vs": {
+          "luke": 0.1793,
+          "paul": 1.0429
+        }
+      },
+      {
+        "word": "by",
+        "score_d": 1.189,
+        "cv": 0.739,
+        "mean_pct": 0.1909,
+        "diff_pct_vs": {
+          "luke": -0.1491,
+          "paul": -0.6122
+        }
+      }
+    ],
+    "luke": [
+      {
+        "word": "and",
+        "score_d": 3.098,
+        "cv": 0.176,
+        "mean_pct": 7.286,
+        "diff_pct_vs": {
+          "john": 2.4769,
+          "paul": 4.2985
+        }
+      },
+      {
+        "word": "not",
+        "score_d": 2.053,
+        "cv": 0.539,
+        "mean_pct": 0.738,
+        "diff_pct_vs": {
+          "john": -0.9075,
+          "paul": -1.062
+        }
+      },
+      {
+        "word": "but",
+        "score_d": 1.794,
+        "cv": 0.431,
+        "mean_pct": 0.638,
+        "diff_pct_vs": {
+          "john": -0.3938,
+          "paul": -0.8776
+        }
+      },
+      {
+        "word": "that",
+        "score_d": 1.624,
+        "cv": 0.301,
+        "mean_pct": 1.72,
+        "diff_pct_vs": {
+          "john": -1.3209,
+          "paul": -0.8581
+        }
+      },
+      {
+        "word": "saying",
+        "score_d": 1.505,
+        "cv": 0.605,
+        "mean_pct": 0.352,
+        "diff_pct_vs": {
+          "john": 0.1702,
+          "paul": 0.3333
+        }
+      },
+      {
+        "word": "certain",
+        "score_d": 1.484,
+        "cv": 0.84,
+        "mean_pct": 0.202,
+        "diff_pct_vs": {
+          "john": 0.1793,
+          "paul": 0.1926
+        }
+      },
+      {
+        "word": "when",
+        "score_d": 1.464,
+        "cv": 0.44,
+        "mean_pct": 0.804,
+        "diff_pct_vs": {
+          "john": 0.3313,
+          "paul": 0.5477
+        }
+      },
+      {
+        "word": "said",
+        "score_d": 1.445,
+        "cv": 0.519,
+        "mean_pct": 0.898,
+        "diff_pct_vs": {
+          "john": -0.1793,
+          "paul": 0.8636
+        }
+      },
+      {
+        "word": "is",
+        "score_d": 1.312,
+        "cv": 0.626,
+        "mean_pct": 0.734,
+        "diff_pct_vs": {
+          "john": -0.7796,
+          "paul": -1.0191
+        }
+      },
+      {
+        "word": "came",
+        "score_d": 1.286,
+        "cv": 0.562,
+        "mean_pct": 0.452,
+        "diff_pct_vs": {
+          "john": 0.1565,
+          "paul": 0.3833
+        }
+      },
+      {
+        "word": "for",
+        "score_d": 1.222,
+        "cv": 0.461,
+        "mean_pct": 0.934,
+        "diff_pct_vs": {
+          "john": 0.0295,
+          "paul": -1.166
+        }
+      },
+      {
+        "word": "him",
+        "score_d": 1.117,
+        "cv": 0.559,
+        "mean_pct": 1.634,
+        "diff_pct_vs": {
+          "john": -0.4933,
+          "paul": 1.1496
+        }
+      },
+      {
+        "word": "they",
+        "score_d": 1.11,
+        "cv": 0.494,
+        "mean_pct": 1.452,
+        "diff_pct_vs": {
+          "john": 0.4293,
+          "paul": 0.9458
+        }
+      },
+      {
+        "word": "to",
+        "score_d": 1.11,
+        "cv": 0.284,
+        "mean_pct": 2.236,
+        "diff_pct_vs": {
+          "john": 1.1451,
+          "paul": 0.0954
+        }
+      },
+      {
+        "word": "jesus",
+        "score_d": 1.1,
+        "cv": 0.897,
+        "mean_pct": 0.336,
+        "diff_pct_vs": {
+          "john": -0.8913,
+          "paul": -0.0984
+        }
+      }
+    ],
+    "paul": [
+      {
+        "word": "and",
+        "score_d": 3.02,
+        "cv": 0.291,
+        "mean_pct": 2.9875,
+        "diff_pct_vs": {
+          "john": -1.8216,
+          "luke": -4.2985
+        }
+      },
+      {
+        "word": "for",
+        "score_d": 2.538,
+        "cv": 0.261,
+        "mean_pct": 2.1,
+        "diff_pct_vs": {
+          "john": 1.1955,
+          "luke": 1.166
+        }
+      },
+      {
+        "word": "him",
+        "score_d": 2.091,
+        "cv": 0.649,
+        "mean_pct": 0.4844,
+        "diff_pct_vs": {
+          "john": -1.6429,
+          "luke": -1.1496
+        }
+      },
+      {
+        "word": "be",
+        "score_d": 2.042,
+        "cv": 0.282,
+        "mean_pct": 1.425,
+        "diff_pct_vs": {
+          "john": 0.9205,
+          "luke": 0.677
+        }
+      },
+      {
+        "word": "he",
+        "score_d": 1.946,
+        "cv": 0.681,
+        "mean_pct": 0.825,
+        "diff_pct_vs": {
+          "john": -1.5932,
+          "luke": -1.257
+        }
+      },
+      {
+        "word": "but",
+        "score_d": 1.776,
+        "cv": 0.295,
+        "mean_pct": 1.5156,
+        "diff_pct_vs": {
+          "john": 0.4838,
+          "luke": 0.8776
+        }
+      },
+      {
+        "word": "are",
+        "score_d": 1.721,
+        "cv": 0.516,
+        "mean_pct": 1.125,
+        "diff_pct_vs": {
+          "john": 0.7432,
+          "luke": 0.823
+        }
+      },
+      {
+        "word": "christ",
+        "score_d": 1.638,
+        "cv": 0.706,
+        "mean_pct": 0.8219,
+        "diff_pct_vs": {
+          "john": 0.6628,
+          "luke": 0.7339
+        }
+      },
+      {
+        "word": "as",
+        "score_d": 1.48,
+        "cv": 0.406,
+        "mean_pct": 0.9094,
+        "diff_pct_vs": {
+          "john": 0.5276,
+          "luke": 0.4274
+        }
+      },
+      {
+        "word": "unto",
+        "score_d": 1.45,
+        "cv": 0.422,
+        "mean_pct": 0.875,
+        "diff_pct_vs": {
+          "john": -0.9659,
+          "luke": -0.533
+        }
+      },
+      {
+        "word": "by",
+        "score_d": 1.407,
+        "cv": 0.627,
+        "mean_pct": 0.8031,
+        "diff_pct_vs": {
+          "john": 0.6122,
+          "luke": 0.4631
+        }
+      },
+      {
+        "word": "when",
+        "score_d": 1.386,
+        "cv": 0.754,
+        "mean_pct": 0.2563,
+        "diff_pct_vs": {
+          "john": -0.2165,
+          "luke": -0.5477
+        }
+      },
+      {
+        "word": "or",
+        "score_d": 1.283,
+        "cv": 0.757,
+        "mean_pct": 0.3438,
+        "diff_pct_vs": {
+          "john": 0.2938,
+          "luke": 0.2118
+        }
+      },
+      {
+        "word": "they",
+        "score_d": 1.262,
+        "cv": 0.865,
+        "mean_pct": 0.5062,
+        "diff_pct_vs": {
+          "john": -0.5165,
+          "luke": -0.9458
+        }
+      },
+      {
+        "word": "his",
+        "score_d": 1.221,
+        "cv": 0.469,
+        "mean_pct": 0.4312,
+        "diff_pct_vs": {
+          "john": -0.5733,
+          "luke": -0.3288
+        }
+      }
+    ]
+  },
+  "author_means_pct": {
+    "john": {
+      "all": 0.2818,
+      "and": 4.8091,
+      "answered": 0.35,
+      "are": 0.3818,
+      "as": 0.3818,
+      "be": 0.5045,
+      "because": 0.4318,
+      "believe": 0.2545,
+      "but": 1.0318,
+      "by": 0.1909,
+      "came": 0.2955,
+      "certain": 0.0227,
+      "christ": 0.1591,
+      "for": 0.9045,
+      "he": 2.4182,
+      "him": 2.1273,
+      "his": 1.0045,
+      "is": 1.5136,
+      "jesus": 1.2273,
+      "not": 1.6455,
+      "or": 0.05,
+      "said": 1.0773,
+      "saying": 0.1818,
+      "that": 3.0409,
+      "they": 1.0227,
+      "to": 1.0909,
+      "unto": 1.8409,
+      "when": 0.4727
+    },
+    "luke": {
+      "all": 0.692,
+      "and": 7.286,
+      "answered": 0.094,
+      "are": 0.302,
+      "as": 0.482,
+      "be": 0.748,
+      "because": 0.124,
+      "believe": 0.03,
+      "but": 0.638,
+      "by": 0.34,
+      "came": 0.452,
+      "certain": 0.202,
+      "christ": 0.088,
+      "for": 0.934,
+      "he": 2.082,
+      "him": 1.634,
+      "his": 0.76,
+      "is": 0.734,
+      "jesus": 0.336,
+      "not": 0.738,
+      "or": 0.132,
+      "said": 0.898,
+      "saying": 0.352,
+      "that": 1.72,
+      "they": 1.452,
+      "to": 2.236,
+      "unto": 1.408,
+      "when": 0.804
+    },
+    "paul": {
+      "all": 0.8,
+      "and": 2.9875,
+      "answered": 0.0,
+      "are": 1.125,
+      "as": 0.9094,
+      "be": 1.425,
+      "because": 0.1406,
+      "believe": 0.0719,
+      "but": 1.5156,
+      "by": 0.8031,
+      "came": 0.0688,
+      "certain": 0.0094,
+      "christ": 0.8219,
+      "for": 2.1,
+      "he": 0.825,
+      "him": 0.4844,
+      "his": 0.4312,
+      "is": 1.7531,
+      "jesus": 0.4344,
+      "not": 1.8,
+      "or": 0.3438,
+      "said": 0.0344,
+      "saying": 0.0187,
+      "that": 2.5781,
+      "they": 0.5062,
+      "to": 2.1406,
+      "unto": 0.875,
+      "when": 0.2563
+    }
+  }
+}

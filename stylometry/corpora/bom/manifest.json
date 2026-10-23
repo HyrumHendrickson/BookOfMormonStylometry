@@ -1,0 +1,59 @@
+{
+  "corpus": "bom",
+  "source": "/workspaces/BookOfMormonStylometry/AnnotatedBooks/book_of_mormon.txt; /workspaces/BookOfMormonStylometry/stylometry/book_of_mormon_authors_by_chapter.json",
+  "rule": "chapters whose annotation lists exactly one author; verse text only",
+  "chapters": {
+    "mormon": [
+      "Words of Mormon 1",
+      "Mosiah 6",
+      "Mosiah 25",
+      "Helaman 12",
+      "3 Nephi 29",
+      "Mormon 2",
+      "Mormon 4",
+      "Mormon 5",
+      "Mormon 6",
+      "Mormon 7"
+    ],
+    "nephi": [
+      "1 Nephi 6",
+      "1 Nephi 7",
+      "1 Nephi 9",
+      "1 Nephi 10",
+      "1 Nephi 15",
+      "1 Nephi 18",
+      "2 Nephi 25",
+      "2 Nephi 32",
+      "2 Nephi 33"
+    ],
+    "moroni": [
+      "Mormon 8",
+      "Ether 5",
+      "Moroni 1",
+      "Moroni 3",
+      "Moroni 4",
+      "Moroni 5",
+      "Moroni 6",
+      "Moroni 10"
+    ]
+  },
+  "author_names": {
+    "mormon": "Mormon",
+    "nephi": "Nephi, son of Lehi",
+    "moroni": "Moroni, son of Mormon"
+  },
+  "authors": {
+    "mormon": {
+      "units": 10,
+      "words": 7788
+    },
+    "moroni": {
+      "units": 8,
+      "words": 3940
+    },
+    "nephi": {
+      "units": 9,
+      "words": 7853
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "corpus": "kjv_nt",
+  "metric": "cosine",
+  "segment_size": 1000,
+  "segments": {
+    "john": 22,
+    "luke": 50,
+    "paul": 32
+  },
+  "features": [
+    "all",
+    "and",
+    "answered",
+    "are",
+    "as",
+    "be",
+    "because",
+    "believe",
+    "but",
+    "by",
+    "came",
+    "certain",
+    "christ",
+    "for",
+    "he",
+    "him",
+    "his",
+    "is",
+    "jesus",
+    "not",
+    "or",
+    "said",
+    "saying",
+    "that",
+    "they",
+    "to",
+    "unto",
+    "when"
+  ],
+  "evaluated_on": "all",
+  "authors": {
+    "john": {
+      "mean_within": 0.6060232563588832,
+      "mean_between": {
+        "luke": 1.0782213888052523,
+        "paul": 1.2006064675451178
+      },
+      "auc_within_vs_between": 0.9435957612232557,
+      "nn_accuracy": 0.9545454545454546,
+      "nn_assigned_to": {
+        "john": 21,
+        "paul": 1
+      }
+    },
+    "luke": {
+      "mean_within": 0.7232041955339827,
+      "mean_between": {
+        "john": 1.0782213888052523,
+        "paul": 1.3105189639538843
+      },
+      "auc_within_vs_between": 0.9313575207860922,
+      "nn_accuracy": 1.0,
+      "nn_assigned_to": {
+        "luke": 50
+      }
+    },
+    "paul": {
+      "mean_within": 0.47999863188980646,
+      "mean_between": {
+        "john": 1.2006064675451178,
+        "luke": 1.3105189639538843
+      },
+      "auc_within_vs_between": 0.9974483366935484,
+      "nn_accuracy": 1.0,
+      "nn_assigned_to": {
+        "paul": 32
+      }
+    }
+  },
+  "overall_nn_accuracy": 0.9903846153846154
+}

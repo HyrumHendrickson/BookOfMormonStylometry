@@ -1,0 +1,61 @@
+{
+  "settings": {
+    "corpora": [
+      "bom",
+      "federalist",
+      "kjv_nt",
+      "bronte"
+    ],
+    "bom_source": null,
+    "skip_prepare": false,
+    "metric": "cosine",
+    "words_per_author": 15,
+    "function_words": false,
+    "holdout": false,
+    "force": false
+  },
+  "status": {
+    "bom": "ok",
+    "federalist": "ok",
+    "kjv_nt": "ok",
+    "bronte": "ok"
+  },
+  "results": {
+    "bom": {
+      "nn_accuracy": 0.8108108108108109,
+      "mean_auc": 0.7755376898234041,
+      "per_author": {
+        "mormon": 0.747994227994228,
+        "moroni": 0.8204081632653061,
+        "nephi": 0.7582106782106782
+      }
+    },
+    "federalist": {
+      "nn_accuracy": 0.9044585987261147,
+      "mean_auc": 0.8264049860328834,
+      "per_author": {
+        "hamilton": 0.6683135223675765,
+        "jay": 0.9964944870565676,
+        "madison": 0.8144069486745061
+      }
+    },
+    "kjv_nt": {
+      "nn_accuracy": 0.9903846153846154,
+      "mean_auc": 0.9574672062342988,
+      "per_author": {
+        "john": 0.9435957612232557,
+        "luke": 0.9313575207860922,
+        "paul": 0.9974483366935484
+      }
+    },
+    "bronte": {
+      "nn_accuracy": 0.9144942648592284,
+      "mean_auc": 0.814094642442608,
+      "per_author": {
+        "anne": 0.827328167406951,
+        "charlotte": 0.6650685033698689,
+        "emily": 0.9498872565510039
+      }
+    }
+  }
+}

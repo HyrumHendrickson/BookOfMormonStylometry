@@ -1,0 +1,658 @@
+{
+  "corpus_dir": "/workspaces/BookOfMormonStylometry/stylometry/corpora/bronte",
+  "settings": {
+    "segment_size": 1000,
+    "words_per_author": 15,
+    "pool": 150,
+    "min_presence": 0.8,
+    "score": "mean",
+    "holdout": false,
+    "function_words": false
+  },
+  "segments_used": {
+    "anne": 235,
+    "charlotte": 607,
+    "emily": 117
+  },
+  "features": [
+    "a",
+    "all",
+    "and",
+    "but",
+    "catherine",
+    "for",
+    "he",
+    "heathcliff",
+    "him",
+    "his",
+    "if",
+    "in",
+    "into",
+    "my",
+    "of",
+    "on",
+    "or",
+    "out",
+    "so",
+    "such",
+    "the",
+    "this",
+    "to",
+    "too",
+    "up",
+    "upon",
+    "was",
+    "well",
+    "which",
+    "with"
+  ],
+  "selected_by_author": {
+    "anne": [
+      "but",
+      "upon",
+      "so",
+      "on",
+      "to",
+      "for",
+      "a",
+      "if",
+      "such",
+      "my",
+      "or",
+      "too",
+      "well",
+      "all",
+      "with"
+    ],
+    "charlotte": [
+      "and",
+      "but",
+      "a",
+      "which",
+      "to",
+      "if",
+      "in",
+      "of",
+      "on",
+      "for",
+      "was",
+      "this",
+      "his",
+      "he",
+      "the"
+    ],
+    "emily": [
+      "heathcliff",
+      "catherine",
+      "but",
+      "of",
+      "or",
+      "on",
+      "out",
+      "all",
+      "up",
+      "into",
+      "he",
+      "to",
+      "was",
+      "his",
+      "him"
+    ]
+  },
+  "details": {
+    "anne": [
+      {
+        "word": "but",
+        "score_d": 1.775,
+        "cv": 0.288,
+        "mean_pct": 1.1264,
+        "diff_pct_vs": {
+          "charlotte": 0.4679,
+          "emily": 0.5392
+        }
+      },
+      {
+        "word": "upon",
+        "score_d": 1.526,
+        "cv": 0.726,
+        "mean_pct": 0.2017,
+        "diff_pct_vs": {
+          "charlotte": 0.1559,
+          "emily": 0.1838
+        }
+      },
+      {
+        "word": "so",
+        "score_d": 0.917,
+        "cv": 0.526,
+        "mean_pct": 0.5417,
+        "diff_pct_vs": {
+          "charlotte": 0.2094,
+          "emily": 0.2349
+        }
+      },
+      {
+        "word": "on",
+        "score_d": 0.914,
+        "cv": 0.556,
+        "mean_pct": 0.4213,
+        "diff_pct_vs": {
+          "charlotte": -0.1812,
+          "emily": -0.2753
+        }
+      },
+      {
+        "word": "to",
+        "score_d": 0.864,
+        "cv": 0.203,
+        "mean_pct": 3.3966,
+        "diff_pct_vs": {
+          "charlotte": 0.7391,
+          "emily": 0.3752
+        }
+      },
+      {
+        "word": "for",
+        "score_d": 0.831,
+        "cv": 0.371,
+        "mean_pct": 0.9732,
+        "diff_pct_vs": {
+          "charlotte": 0.2928,
+          "emily": 0.2535
+        }
+      },
+      {
+        "word": "a",
+        "score_d": 0.789,
+        "cv": 0.307,
+        "mean_pct": 1.7345,
+        "diff_pct_vs": {
+          "charlotte": -0.6591,
+          "emily": -0.2519
+        }
+      },
+      {
+        "word": "if",
+        "score_d": 0.746,
+        "cv": 0.571,
+        "mean_pct": 0.5017,
+        "diff_pct_vs": {
+          "charlotte": 0.2442,
+          "emily": 0.1197
+        }
+      },
+      {
+        "word": "such",
+        "score_d": 0.72,
+        "cv": 0.768,
+        "mean_pct": 0.2149,
+        "diff_pct_vs": {
+          "charlotte": 0.0706,
+          "emily": 0.1269
+        }
+      },
+      {
+        "word": "my",
+        "score_d": 0.704,
+        "cv": 0.492,
+        "mean_pct": 1.3706,
+        "diff_pct_vs": {
+          "charlotte": 0.4184,
+          "emily": 0.4253
+        }
+      },
+      {
+        "word": "or",
+        "score_d": 0.699,
+        "cv": 0.546,
+        "mean_pct": 0.4843,
+        "diff_pct_vs": {
+          "charlotte": 0.1076,
+          "emily": 0.2184
+        }
+      },
+      {
+        "word": "too",
+        "score_d": 0.63,
+        "cv": 0.745,
+        "mean_pct": 0.2123,
+        "diff_pct_vs": {
+          "charlotte": 0.0759,
+          "emily": 0.0961
+        }
+      },
+      {
+        "word": "well",
+        "score_d": 0.607,
+        "cv": 0.744,
+        "mean_pct": 0.2396,
+        "diff_pct_vs": {
+          "charlotte": 0.059,
+          "emily": 0.1242
+        }
+      },
+      {
+        "word": "all",
+        "score_d": 0.583,
+        "cv": 0.604,
+        "mean_pct": 0.4145,
+        "diff_pct_vs": {
+          "charlotte": 0.0767,
+          "emily": 0.1717
+        }
+      },
+      {
+        "word": "with",
+        "score_d": 0.57,
+        "cv": 0.376,
+        "mean_pct": 0.9043,
+        "diff_pct_vs": {
+          "charlotte": 0.1303,
+          "emily": 0.2154
+        }
+      }
+    ],
+    "charlotte": [
+      {
+        "word": "and",
+        "score_d": 0.974,
+        "cv": 0.204,
+        "mean_pct": 3.3232,
+        "diff_pct_vs": {
+          "anne": -0.6823,
+          "emily": -0.7332
+        }
+      },
+      {
+        "word": "but",
+        "score_d": 0.944,
+        "cv": 0.396,
+        "mean_pct": 0.6585,
+        "diff_pct_vs": {
+          "anne": -0.4679,
+          "emily": 0.0713
+        }
+      },
+      {
+        "word": "a",
+        "score_d": 0.897,
+        "cv": 0.266,
+        "mean_pct": 2.3936,
+        "diff_pct_vs": {
+          "anne": 0.6591,
+          "emily": 0.4073
+        }
+      },
+      {
+        "word": "which",
+        "score_d": 0.88,
+        "cv": 0.644,
+        "mean_pct": 0.3359,
+        "diff_pct_vs": {
+          "anne": 0.1474,
+          "emily": 0.1778
+        }
+      },
+      {
+        "word": "to",
+        "score_d": 0.869,
+        "cv": 0.241,
+        "mean_pct": 2.6575,
+        "diff_pct_vs": {
+          "anne": -0.7391,
+          "emily": -0.3639
+        }
+      },
+      {
+        "word": "if",
+        "score_d": 0.824,
+        "cv": 0.755,
+        "mean_pct": 0.2575,
+        "diff_pct_vs": {
+          "anne": -0.2442,
+          "emily": -0.1246
+        }
+      },
+      {
+        "word": "in",
+        "score_d": 0.748,
+        "cv": 0.268,
+        "mean_pct": 1.5586,
+        "diff_pct_vs": {
+          "anne": 0.3127,
+          "emily": 0.2911
+        }
+      },
+      {
+        "word": "of",
+        "score_d": 0.665,
+        "cv": 0.295,
+        "mean_pct": 2.5208,
+        "diff_pct_vs": {
+          "anne": 0.2671,
+          "emily": 0.6199
+        }
+      },
+      {
+        "word": "on",
+        "score_d": 0.535,
+        "cv": 0.449,
+        "mean_pct": 0.6025,
+        "diff_pct_vs": {
+          "anne": 0.1812,
+          "emily": -0.0941
+        }
+      },
+      {
+        "word": "for",
+        "score_d": 0.511,
+        "cv": 0.434,
+        "mean_pct": 0.6804,
+        "diff_pct_vs": {
+          "anne": -0.2928,
+          "emily": -0.0393
+        }
+      },
+      {
+        "word": "was",
+        "score_d": 0.505,
+        "cv": 0.416,
+        "mean_pct": 1.3405,
+        "diff_pct_vs": {
+          "anne": 0.1375,
+          "emily": 0.3773
+        }
+      },
+      {
+        "word": "this",
+        "score_d": 0.503,
+        "cv": 0.615,
+        "mean_pct": 0.3914,
+        "diff_pct_vs": {
+          "anne": 0.0757,
+          "emily": 0.1384
+        }
+      },
+      {
+        "word": "his",
+        "score_d": 0.5,
+        "cv": 0.862,
+        "mean_pct": 0.7474,
+        "diff_pct_vs": {
+          "anne": -0.1696,
+          "emily": -0.4696
+        }
+      },
+      {
+        "word": "he",
+        "score_d": 0.491,
+        "cv": 0.827,
+        "mean_pct": 1.045,
+        "diff_pct_vs": {
+          "anne": -0.1955,
+          "emily": -0.6208
+        }
+      },
+      {
+        "word": "the",
+        "score_d": 0.487,
+        "cv": 0.272,
+        "mean_pct": 4.2596,
+        "diff_pct_vs": {
+          "anne": 0.7013,
+          "emily": 0.3562
+        }
+      }
+    ],
+    "emily": [
+      {
+        "word": "heathcliff",
+        "score_d": 2.497,
+        "cv": 0.566,
+        "mean_pct": 0.3607,
+        "diff_pct_vs": {
+          "anne": 0.3607,
+          "charlotte": 0.3607
+        }
+      },
+      {
+        "word": "catherine",
+        "score_d": 1.878,
+        "cv": 0.752,
+        "mean_pct": 0.2897,
+        "diff_pct_vs": {
+          "anne": 0.2897,
+          "charlotte": 0.2892
+        }
+      },
+      {
+        "word": "but",
+        "score_d": 1.129,
+        "cv": 0.367,
+        "mean_pct": 0.5872,
+        "diff_pct_vs": {
+          "anne": -0.5392,
+          "charlotte": -0.0713
+        }
+      },
+      {
+        "word": "of",
+        "score_d": 0.768,
+        "cv": 0.299,
+        "mean_pct": 1.9009,
+        "diff_pct_vs": {
+          "anne": -0.3528,
+          "charlotte": -0.6199
+        }
+      },
+      {
+        "word": "or",
+        "score_d": 0.748,
+        "cv": 0.672,
+        "mean_pct": 0.2658,
+        "diff_pct_vs": {
+          "anne": -0.2184,
+          "charlotte": -0.1108
+        }
+      },
+      {
+        "word": "on",
+        "score_d": 0.733,
+        "cv": 0.374,
+        "mean_pct": 0.6966,
+        "diff_pct_vs": {
+          "anne": 0.2753,
+          "charlotte": 0.0941
+        }
+      },
+      {
+        "word": "out",
+        "score_d": 0.705,
+        "cv": 0.568,
+        "mean_pct": 0.2667,
+        "diff_pct_vs": {
+          "anne": 0.1301,
+          "charlotte": 0.0706
+        }
+      },
+      {
+        "word": "all",
+        "score_d": 0.679,
+        "cv": 0.634,
+        "mean_pct": 0.2427,
+        "diff_pct_vs": {
+          "anne": -0.1717,
+          "charlotte": -0.095
+        }
+      },
+      {
+        "word": "up",
+        "score_d": 0.646,
+        "cv": 0.632,
+        "mean_pct": 0.2761,
+        "diff_pct_vs": {
+          "anne": 0.1122,
+          "charlotte": 0.0968
+        }
+      },
+      {
+        "word": "into",
+        "score_d": 0.644,
+        "cv": 0.59,
+        "mean_pct": 0.2333,
+        "diff_pct_vs": {
+          "anne": 0.0865,
+          "charlotte": 0.0864
+        }
+      },
+      {
+        "word": "he",
+        "score_d": 0.634,
+        "cv": 0.459,
+        "mean_pct": 1.6658,
+        "diff_pct_vs": {
+          "anne": 0.4254,
+          "charlotte": 0.6208
+        }
+      },
+      {
+        "word": "to",
+        "score_d": 0.621,
+        "cv": 0.171,
+        "mean_pct": 3.0214,
+        "diff_pct_vs": {
+          "anne": -0.3752,
+          "charlotte": 0.3639
+        }
+      },
+      {
+        "word": "was",
+        "score_d": 0.62,
+        "cv": 0.428,
+        "mean_pct": 0.9632,
+        "diff_pct_vs": {
+          "anne": -0.2397,
+          "charlotte": -0.3773
+        }
+      },
+      {
+        "word": "his",
+        "score_d": 0.603,
+        "cv": 0.504,
+        "mean_pct": 1.2171,
+        "diff_pct_vs": {
+          "anne": 0.3001,
+          "charlotte": 0.4696
+        }
+      },
+      {
+        "word": "him",
+        "score_d": 0.593,
+        "cv": 0.583,
+        "mean_pct": 0.7915,
+        "diff_pct_vs": {
+          "anne": 0.1136,
+          "charlotte": 0.4008
+        }
+      }
+    ]
+  },
+  "author_means_pct": {
+    "anne": {
+      "a": 1.7345,
+      "all": 0.4145,
+      "and": 4.0055,
+      "but": 1.1264,
+      "catherine": 0.0,
+      "for": 0.9732,
+      "he": 1.2404,
+      "heathcliff": 0.0,
+      "him": 0.6779,
+      "his": 0.917,
+      "if": 0.5017,
+      "in": 1.246,
+      "into": 0.1468,
+      "my": 1.3706,
+      "of": 2.2536,
+      "on": 0.4213,
+      "or": 0.4843,
+      "out": 0.1366,
+      "so": 0.5417,
+      "such": 0.2149,
+      "the": 3.5583,
+      "this": 0.3157,
+      "to": 3.3966,
+      "too": 0.2123,
+      "up": 0.1638,
+      "upon": 0.2017,
+      "was": 1.203,
+      "well": 0.2396,
+      "which": 0.1885,
+      "with": 0.9043
+    },
+    "charlotte": {
+      "a": 2.3936,
+      "all": 0.3377,
+      "and": 3.3232,
+      "but": 0.6585,
+      "catherine": 0.0005,
+      "for": 0.6804,
+      "he": 1.045,
+      "heathcliff": 0.0,
+      "him": 0.3906,
+      "his": 0.7474,
+      "if": 0.2575,
+      "in": 1.5586,
+      "into": 0.147,
+      "my": 0.9522,
+      "of": 2.5208,
+      "on": 0.6025,
+      "or": 0.3766,
+      "out": 0.196,
+      "so": 0.3323,
+      "such": 0.1443,
+      "the": 4.2596,
+      "this": 0.3914,
+      "to": 2.6575,
+      "too": 0.1364,
+      "up": 0.1792,
+      "upon": 0.0458,
+      "was": 1.3405,
+      "well": 0.1806,
+      "which": 0.3359,
+      "with": 0.774
+    },
+    "emily": {
+      "a": 1.9863,
+      "all": 0.2427,
+      "and": 4.0564,
+      "but": 0.5872,
+      "catherine": 0.2897,
+      "for": 0.7197,
+      "he": 1.6658,
+      "heathcliff": 0.3607,
+      "him": 0.7915,
+      "his": 1.2171,
+      "if": 0.3821,
+      "in": 1.2675,
+      "into": 0.2333,
+      "my": 0.9453,
+      "of": 1.9009,
+      "on": 0.6966,
+      "or": 0.2658,
+      "out": 0.2667,
+      "so": 0.3068,
+      "such": 0.088,
+      "the": 3.9034,
+      "this": 0.253,
+      "to": 3.0214,
+      "too": 0.1162,
+      "up": 0.2761,
+      "upon": 0.0179,
+      "was": 0.9632,
+      "well": 0.1154,
+      "which": 0.1581,
+      "with": 0.6889
+    }
+  }
+}
