@@ -3,7 +3,7 @@
     "title": "Claimed authors by chapter, Book of Mormon",
     "total_books": 15,
     "total_chapters": 239,
-    "method": "Chapter-level attribution based on the text's own claims. Named speakers, record keepers, abridgers, letter writers, divine speakers, and substantial quoted or cited sources are included. Speech and epistles that are only summarized in narration are omitted. Inferred attributions are flagged in chapter notes.",
+    "method": "Chapter-level attribution based on the text's own claims. Named speakers, record keepers, abridgers, letter writers, divine speakers, and substantial quoted or cited sources are included. Speech and epistles that are only summarized in narration or indirect speech are omitted. Abridger commentary is tagged when it runs to three or more consecutive verses. Inferred attributions are flagged in chapter notes.",
     "roles": {
       "primary author": "writes the record or text in his own voice",
       "abridger": "Mormon or Moroni condensing an earlier record",
@@ -39,7 +39,7 @@
               ]
             }
           ],
-          "notes": "Nephi abridges his father Lehi's record (1:16-17); Lehi's exclamation of praise (1:14-15)."
+          "notes": "Nephi abridges his father Lehi's record (1:16-17); Lehi's exclamation of praise (1:14)."
         },
         {
           "chapter": 2,
@@ -87,7 +87,7 @@
               ]
             }
           ],
-          "notes": "An angel rebukes Laman and Lemuel (3:29-30)."
+          "notes": "Lehi relays the Lord's command to return for the plates (3:2-6); an angel rebukes Laman and Lemuel (3:29)."
         },
         {
           "chapter": 4,
@@ -128,7 +128,7 @@
               ]
             }
           ],
-          "notes": "Sariah's complaint against Lehi (5:2-3)."
+          "notes": "Sariah's complaint against Lehi (5:2) and her testimony (5:8); Lehi's reply (5:4-5)."
         },
         {
           "chapter": 6,
@@ -189,14 +189,9 @@
               "roles": [
                 "primary author"
               ]
-            },
-            {
-              "name": "Lehi",
-              "roles": [
-                "speaker"
-              ]
             }
-          ]
+          ],
+          "notes": "Lehi's prophecies of the Messiah, his forerunner, and the scattering and gathering of Israel (10:2-14) are reported in indirect speech, so Lehi is not listed as a speaker."
         },
         {
           "chapter": 11,
@@ -252,8 +247,15 @@
               "roles": [
                 "speaker"
               ]
+            },
+            {
+              "name": "Jesus Christ",
+              "roles": [
+                "divine speaker"
+              ]
             }
-          ]
+          ],
+          "notes": "The angel relays the words of the Lamb of God in the first person ('saith the Lamb of God,' 13:33-36)."
         },
         {
           "chapter": 14,
@@ -417,9 +419,15 @@
               "roles": [
                 "cited witness"
               ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "cited witness"
+              ]
             }
           ],
-          "notes": "Nephi quotes Moses's prophecy of a prophet like unto him (22:20-21)."
+          "notes": "Nephi interprets the Isaiah chapters he has just read from the brass plates (22:1), echoing Isaiah 49:22 (22:6, 22:8) and Isaiah 52:10 (22:10-11). Nephi quotes Moses's prophecy of a prophet like unto him (22:20-21)."
         }
       ]
     },
@@ -609,7 +617,8 @@
                 "speaker"
               ]
             }
-          ]
+          ],
+          "notes": "Jacob's invitation in 9:50-51 parallels Isaiah 55:1-2 but does not name Isaiah, and the framing of 6:4-5 covers only the reading in chs. 6-8, so Isaiah is not listed."
         },
         {
           "chapter": 10,
@@ -902,7 +911,8 @@
                 "primary author"
               ]
             }
-          ]
+          ],
+          "notes": "Nephi's commentary on the words of Isaiah (25:1-8) frames chs. 25-30; no Isaiah text is quoted in this chapter, so Isaiah is not listed."
         },
         {
           "chapter": 26,
@@ -954,9 +964,15 @@
               "roles": [
                 "divine speaker"
               ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "cited witness"
+              ]
             }
           ],
-          "notes": "Nephi quotes the Lord God (28:30, 28:32)."
+          "notes": "Nephi quotes the Lord God (28:30, 28:32). Brief echoes of Isaiah 29:15 (28:9), 29:21 (28:16), and 28:10 (28:30) are listed as citations under the framing of 2 Nephi 25:1-8."
         },
         {
           "chapter": 29,
@@ -972,9 +988,15 @@
               "roles": [
                 "divine speaker"
               ]
+            },
+            {
+              "name": "Isaiah",
+              "roles": [
+                "cited witness"
+              ]
             }
           ],
-          "notes": "The Lord speaks throughout the chapter."
+          "notes": "The Lord speaks throughout the chapter, echoing Isaiah 11:11 (29:1) and 5:26 (29:2); Isaiah is listed as cited under the framing of 2 Nephi 25:1-8."
         },
         {
           "chapter": 30,
@@ -1354,8 +1376,15 @@
               "roles": [
                 "speaker"
               ]
+            },
+            {
+              "name": "People of King Benjamin",
+              "roles": [
+                "speaker"
+              ]
             }
-          ]
+          ],
+          "notes": "The people answer Benjamin with one voice, declaring their faith and covenant (5:2-5)."
         },
         {
           "chapter": 6,
@@ -2019,8 +2048,15 @@
               "roles": [
                 "source record keeper"
               ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
             }
-          ]
+          ],
+          "notes": "The words of God to Nephi concerning the curse and mark are quoted in the Lord's first person (3:14-17)."
         },
         {
           "chapter": 4,
@@ -2054,9 +2090,21 @@
                 "source record keeper",
                 "speaker"
               ]
+            },
+            {
+              "name": "Spirit of the Lord",
+              "roles": [
+                "divine speaker"
+              ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
             }
           ],
-          "notes": "Alma's sermon in Zarahemla."
+          "notes": "Alma's sermon in Zarahemla. Alma quotes the Lord's invitation in the Lord's first person (5:33-35) and the words of the Spirit (5:50-51)."
         },
         {
           "chapter": 6,
@@ -2217,8 +2265,15 @@
                 "source record keeper",
                 "speaker"
               ]
+            },
+            {
+              "name": "God the Father",
+              "roles": [
+                "divine speaker"
+              ]
             }
-          ]
+          ],
+          "notes": "Alma quotes God calling on men in the name of his Son (12:33-35); identification of the speaker as the Father is inferred from 'through mine Only Begotten Son' (12:33)."
         },
         {
           "chapter": 13,
@@ -2849,7 +2904,7 @@
               ]
             }
           ],
-          "notes": "Alma's counsel to Helaman; Alma quotes the Lord's words concerning Gazelem (37:23)."
+          "notes": "Alma's counsel to Helaman; Alma charges Helaman to take the records (37:1). Alma quotes the Lord's words concerning Gazelem (37:23)."
         },
         {
           "chapter": 38,
@@ -3011,9 +3066,15 @@
               "roles": [
                 "speaker"
               ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
             }
           ],
-          "notes": "The heading before ch. 45 attributes chs. 45-62 to the record of Helaman. Alma blesses and prophesies to Helaman; Helaman takes the records."
+          "notes": "The heading before ch. 45 attributes chs. 45-62 to the record of Helaman. Alma blesses and prophesies to Helaman."
         },
         {
           "chapter": 46,
@@ -3021,7 +3082,8 @@
             {
               "name": "Mormon",
               "roles": [
-                "abridger"
+                "abridger",
+                "editorial commentator"
               ]
             },
             {
@@ -3043,7 +3105,7 @@
               ]
             }
           ],
-          "notes": "Moroni raises the title of liberty and quotes the dying words of Jacob concerning Joseph's coat (46:24-26)."
+          "notes": "Mormon's commentary on Amalickiah's dissension (46:8-10). Moroni raises the title of liberty and quotes the dying words of Jacob concerning Joseph's coat (46:24-26)."
         },
         {
           "chapter": 47,
@@ -3068,7 +3130,8 @@
             {
               "name": "Mormon",
               "roles": [
-                "abridger"
+                "abridger",
+                "editorial commentator"
               ]
             },
             {
@@ -3077,7 +3140,8 @@
                 "source record keeper"
               ]
             }
-          ]
+          ],
+          "notes": "Mormon's commentary on the character of Captain Moroni (48:11-18)."
         },
         {
           "chapter": 49,
@@ -3102,7 +3166,8 @@
             {
               "name": "Mormon",
               "roles": [
-                "abridger"
+                "abridger",
+                "editorial commentator"
               ]
             },
             {
@@ -3111,7 +3176,8 @@
                 "source record keeper"
               ]
             }
-          ]
+          ],
+          "notes": "Mormon's commentary on the fulfillment of the Lord's words to Lehi (50:19-23)."
         },
         {
           "chapter": 51,
@@ -3430,7 +3496,8 @@
             {
               "name": "Mormon",
               "roles": [
-                "abridger"
+                "abridger",
+                "editorial commentator"
               ]
             },
             {
@@ -3440,7 +3507,7 @@
               ]
             }
           ],
-          "notes": "Helaman's death is reported at 3:37; his son Nephi succeeds him. Attribution of chs. 4-16 to Nephi's record is inferred from this succession and the book's heading."
+          "notes": "Mormon's commentary on the mercy of the Lord (3:27-30). Helaman's death is reported at 3:37; his son Nephi succeeds him. Attribution of chs. 4-16 to Nephi's record is inferred from this succession and the book's heading."
         },
         {
           "chapter": 4,
@@ -3514,7 +3581,8 @@
             {
               "name": "Mormon",
               "roles": [
-                "abridger"
+                "abridger",
+                "editorial commentator"
               ]
             },
             {
@@ -3523,7 +3591,8 @@
                 "source record keeper"
               ]
             }
-          ]
+          ],
+          "notes": "Mormon's commentary on the Nephites' decline and the Lamanites' conversion (6:34-36)."
         },
         {
           "chapter": 7,
@@ -3540,8 +3609,15 @@
                 "source record keeper",
                 "speaker"
               ]
+            },
+            {
+              "name": "The Lord",
+              "roles": [
+                "divine speaker"
+              ]
             }
-          ]
+          ],
+          "notes": "Nephi's prayer and address from his garden tower (7:13-29); he delivers the Lord's words in the first person (7:23)."
         },
         {
           "chapter": 8,
@@ -3646,7 +3722,8 @@
             {
               "name": "Nephi, son of Helaman",
               "roles": [
-                "source record keeper"
+                "source record keeper",
+                "speaker"
               ]
             },
             {
@@ -3656,7 +3733,7 @@
               ]
             }
           ],
-          "notes": "The Lord's promise to Nephi (10:4-11). Nephi's subsequent preaching is narrated, so he is not listed as a speaker."
+          "notes": "The Lord's promise and commission to Nephi (10:4-11); Nephi declares the Lord's warning to the people (10:14). His wider preaching is narrated (10:12, 10:17)."
         },
         {
           "chapter": 11,
@@ -3826,7 +3903,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -3850,7 +3927,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -3867,7 +3944,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -3903,7 +3980,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -3921,7 +3998,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -3939,7 +4016,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -3956,7 +4033,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -3974,7 +4051,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -3991,7 +4068,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4015,7 +4092,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4051,7 +4128,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4080,7 +4157,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4104,7 +4181,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4127,7 +4204,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4150,7 +4227,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4173,7 +4250,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4203,7 +4280,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4226,7 +4303,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4249,7 +4326,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4272,7 +4349,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4308,7 +4385,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4322,11 +4399,11 @@
             {
               "name": "Isaiah",
               "roles": [
-                "quoted author"
+                "cited witness"
               ]
             }
           ],
-          "notes": "Jesus draws on Isaiah 52 (21:8, 21:10, 21:29). A prophecy paralleling Micah 5:8-15 (21:12-18, 21:21) is noted only; Micah is not named."
+          "notes": "Jesus draws brief phrases from Isaiah 52 (21:8, 21:10, 21:29), identified by his reference to the words of Isaiah (20:11); these are short, so Isaiah is listed as cited rather than quoted. A prophecy paralleling Micah 5:8-15 (21:12-18, 21:21) is noted only; Micah is not named."
         },
         {
           "chapter": 22,
@@ -4338,7 +4415,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4368,7 +4445,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4404,7 +4481,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4434,7 +4511,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4465,7 +4542,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4489,7 +4566,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4513,7 +4590,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi, son of Helaman",
               "roles": [
                 "source record keeper"
               ]
@@ -4576,7 +4653,7 @@
               ]
             },
             {
-              "name": "Nephi, son of Nephi",
+              "name": "Nephi, son of Nephi the disciple",
               "roles": [
                 "source record keeper"
               ]
@@ -4600,7 +4677,7 @@
               ]
             }
           ],
-          "notes": "1:1-19 Nephi; 1:19-21 Amos, son of Nephi; 1:21-47 Amos, son of Amos; 1:47-49 Ammaron."
+          "notes": "1:1-19 Nephi; 1:19-21 Amos, son of Nephi; 1:21-47 Amos, son of Amos; 1:47-49 Ammaron. The book's heading names its first record keeper as Nephi, son of Nephi, one of the disciples of Jesus Christ; he is therefore the son of the Nephi who kept the record of 3 Nephi."
         }
       ]
     },
@@ -4917,9 +4994,15 @@
               "roles": [
                 "source record keeper"
               ]
+            },
+            {
+              "name": "Daughter of Jared, son of Omer",
+              "roles": [
+                "speaker"
+              ]
             }
           ],
-          "notes": "Moroni's warning against secret combinations (8:20-26)."
+          "notes": "The daughter of Jared (son of Omer, not the Jared of Ether 1) proposes the plot with Akish (8:9-10). Moroni's warning against secret combinations (8:20-26)."
         },
         {
           "chapter": 9,
@@ -5201,7 +5284,7 @@
               ]
             }
           ],
-          "notes": "Moroni's farewell and promise concerning the Holy Ghost."
+          "notes": "Moroni's farewell and promise concerning the Holy Ghost. His closing exhortation (10:31) parallels Isaiah 52:1-2 and 54:2 but does not name Isaiah, so Isaiah is noted only."
         }
       ]
     }
